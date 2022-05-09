@@ -17,3 +17,17 @@ body {
   color: #555;
   /* overflow-x: hidden; */
 }
+
+.navbar {
+}
+
+.navbar__list {
+  /* height: 5rem; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 3rem;
+  padding: 0.5rem 2rem;
+  border-bottom: #000 solid;
+  list-style: none;
+}
