@@ -6,8 +6,6 @@
 
 html {
   font-size: 62.5%;
-  /* overflow-x: hidden; */
-  /* scroll-behavior: smooth; */
 }
 
 body {
@@ -15,7 +13,6 @@ body {
   line-height: 1;
   font-weight: 400;
   color: #555;
-  /* overflow-x: hidden; */
 }
 
 .navbar__list {
@@ -39,7 +36,24 @@ body {
   gap: 1.5rem;
 }
 
+.card__img {
+  clip-path: circle();
+}
+
+.card::before {
+  content: " ";
+  position: absolute;
+  top: -3rem;
+  left: 7rem;
+  z-index: -50;
+  height: 25rem;
+  width: 30rem;
+  background-image: url(./imgs/moroccan-flower-dark.webp);
+}
+
 .card__text {
   font-size: 4rem;
   line-height: 1.5;
+  padding-left: 1.5rem;
+  background-color: #fff;
 }
