@@ -36,6 +36,11 @@ body {
   gap: 1.5rem;
 }
 
+.card:hover::before {
+  left: 10rem;
+  background: linear-gradient(45deg, #192e59, #164f73);
+}
+
 .card__img {
   clip-path: circle();
 }
@@ -44,11 +49,12 @@ body {
   content: " ";
   position: absolute;
   top: -3rem;
-  left: 7rem;
+  left: 6rem;
   z-index: -50;
   height: 25rem;
-  width: 30rem;
+  width: 38rem;
   background-image: url(./imgs/moroccan-flower-dark.webp);
+  transition: all 0.3s ease-out;
 }
 
 .card__text {
