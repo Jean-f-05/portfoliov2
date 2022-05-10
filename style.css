@@ -25,7 +25,7 @@ body {
   font-family: "Koulen", cursive;
   line-height: 1;
   font-weight: 400;
-  color: #555;
+  color: var(--grey);
 }
 
 .navbar__list {
@@ -94,7 +94,7 @@ body {
 }
 
 .btn {
-  border: #164f73 solid;
+  border: var(--lblue) solid;
   border-radius: 50%;
 }
 
@@ -110,7 +110,7 @@ body {
 .ph-arrow-right {
   padding: 1rem;
   font-size: 4rem;
-  color: #555;
+  color: var(--grey);
 }
 
 @keyframes cardBgSlide {
