@@ -79,9 +79,12 @@ body {
   background-color: #fff;
 }
 
-.card__btn {
+.btn {
   border: #164f73 solid;
   border-radius: 50%;
+}
+
+.card__btn {
   transform: translateX(-15rem);
   opacity: 0;
   transition: all 0.5s 0.5s;
