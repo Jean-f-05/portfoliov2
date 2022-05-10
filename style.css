@@ -5,6 +5,12 @@ LIGHT BLUE: #164f73
 GREY: #555
 */
 
+:root {
+  --dblue: #192e59;
+  --lblue: #164f73;
+  --grey: #555;
+}
+
 * {
   margin: 0;
   padding: 0;
