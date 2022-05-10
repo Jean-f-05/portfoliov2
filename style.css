@@ -46,9 +46,10 @@ body {
   transform: translate(-50%, -50%);
 }
 
-.ph-arrow-fat-lines-down {
-  font-size: 6rem;
-  color: ;
+.ph-navigation-arrow-fill {
+  font-size: 4rem;
+  padding: 1.8rem;
+  color: var(--dblue);
 }
 
 .card {
@@ -93,9 +94,23 @@ body {
   background-color: #fff;
 }
 
-.btn {
-  border: var(--lblue) solid;
+.btn,
+.btn:link,
+.btn:visited {
+  border: 0.3rem var(--dblue) solid;
   border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  /* background-color: #c6ddf0; */
+}
+
+.btn:hover {
+  transform: translateY(-5px);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 15px 15px;
+}
+
+.btn:active {
+  transform: translateY(0);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .card__btn {
