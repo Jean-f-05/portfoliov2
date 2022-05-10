@@ -63,3 +63,16 @@ body {
   padding-left: 1.5rem;
   background-color: #fff;
 }
+
+.card__btn {
+  border: #164f73 solid;
+  border-radius: 50%;
+}
+.card__btn__link {
+  text-decoration: none;
+}
+.ph-arrow-right {
+  padding: 1rem;
+  font-size: 4rem;
+  color: #164f73;
+}
