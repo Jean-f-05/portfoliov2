@@ -28,6 +28,10 @@ body {
   color: var(--grey);
 }
 
+.hidden {
+  visibility: hidden;
+}
+
 .navbar__list {
   /* height: 5rem; */
   display: flex;
@@ -52,17 +56,17 @@ body {
   color: var(--dblue);
 }
 
-.card {
+.card__main {
   display: flex;
   align-items: center;
   gap: 1.5rem;
 }
 
-.card:hover::before {
+.card__main:hover::before {
   animation: cardBgSlide 1s forwards;
 }
 
-.card:hover .card__btn {
+.card__main:hover .card__btn {
   opacity: 1;
   transform: translateX(-10rem);
 }
@@ -71,7 +75,7 @@ body {
   clip-path: circle();
 }
 
-.card::before {
+.card__main::before {
   content: " ";
   position: absolute;
   top: -3rem;
