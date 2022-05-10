@@ -41,6 +41,11 @@ body {
   background: linear-gradient(45deg, #192e59, #164f73);
 }
 
+.card:hover .card__btn {
+  opacity: 1;
+  transform: translateX(-10rem);
+}
+
 .card__img {
   clip-path: circle();
 }
@@ -67,7 +72,11 @@ body {
 .card__btn {
   border: #164f73 solid;
   border-radius: 50%;
+  transform: translateX(-15rem);
+  opacity: 0;
+  transition: all 0.5s 0.5s;
 }
+
 .card__btn__link {
   text-decoration: none;
 }
