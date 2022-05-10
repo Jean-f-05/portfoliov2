@@ -28,6 +28,10 @@ body {
   color: var(--grey);
 }
 
+a {
+  text-decoration: none;
+}
+
 .hidden {
   visibility: hidden;
 }
@@ -39,7 +43,7 @@ body {
   align-items: center;
   font-size: 3rem;
   padding: 0.5rem 2rem;
-  border-bottom: #000 solid;
+  border-bottom: 0.3rem var(--grey) solid;
   list-style: none;
 }
 
@@ -123,13 +127,31 @@ body {
   transition: all 0.5s 0.5s;
 }
 
-.card__btn__link {
-  text-decoration: none;
-}
 .ph-arrow-right {
   padding: 1rem;
   font-size: 4rem;
   color: var(--grey);
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer__list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  font-size: 3rem;
+  padding: 0.5rem 2rem;
+  border-top: 0.3rem var(--grey) solid;
+  list-style: none;
+}
+
+.ph-github-logo {
+  color: var(--dblue);
 }
 
 @keyframes cardBgSlide {
