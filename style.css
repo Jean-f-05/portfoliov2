@@ -40,6 +40,11 @@ body {
   transform: translate(-50%, -50%);
 }
 
+.ph-arrow-fat-lines-down {
+  font-size: 6rem;
+  color: ;
+}
+
 .card {
   display: flex;
   align-items: center;
