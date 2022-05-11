@@ -192,17 +192,13 @@ a {
 }
 
 @keyframes slideOut {
-  0% {
+  from {
     opacity: 1;
   }
-  25% {
-    transform: translateY(50px);
-  }
-  50% {
-  }
-  75% {
-  }
-  100% {
+
+  to {
     opacity: 0;
+    transform: translate(-50%, -10%);
+    display: none;
   }
 }
