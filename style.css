@@ -113,11 +113,6 @@ a {
   transform: translateX(50px);
 }
 
-.card__text p:nth-child(1) {
-  /* opacity: 1;
-  background-color: red; */
-}
-
 .btn,
 .btn:link,
 .btn:visited {
@@ -213,7 +208,7 @@ a {
 }
 
 .textIn {
-  animation: slideText 2s linear 0s 1 normal forwards;
+  animation: slideText 2s ease-out 0s 1 normal forwards;
 }
 
 @keyframes slideText {

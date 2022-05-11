@@ -9,10 +9,9 @@ mainBtn.addEventListener("click", () => {
   mainBtn.classList.add("hide");
   setTimeout(() => {
     cardMain.classList.remove("hidden");
+
     Array.from(cardText).forEach((element) => {
       element.classList.add("textIn");
     });
   }, 2000);
 });
-
-set;
