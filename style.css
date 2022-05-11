@@ -38,8 +38,6 @@ a {
 
 .hide {
   animation: slideOut 2s linear 0s 1 normal forwards;
-  animation: name duration timing-function delay iteration-count direction
-    fill-mode;
 }
 
 .navbar__list {
@@ -83,9 +81,11 @@ a {
 
 .card__img {
   clip-path: circle();
+  opacity: 0;
 }
 
 .card__main::before {
+  opacity: 0;
   content: " ";
   position: absolute;
   top: -3rem;
@@ -106,6 +106,16 @@ a {
   line-height: 1.5;
   padding-left: 1.5rem;
   background-color: #fff;
+}
+
+.card__text > p {
+  opacity: 0;
+  transform: translateX(50px);
+}
+
+.card__text p:nth-child(1) {
+  /* opacity: 1;
+  background-color: red; */
 }
 
 .btn,
@@ -195,10 +205,22 @@ a {
   from {
     opacity: 1;
   }
-
   to {
     opacity: 0;
     transform: translate(-50%, -10%);
     display: none;
+  }
+}
+
+.textIn {
+  animation: slideText 2s linear 0s 1 normal forwards;
+}
+
+@keyframes slideText {
+  from {
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
   }
 }
