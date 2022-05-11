@@ -70,7 +70,7 @@ a {
   gap: 1.5rem;
 }
 
-.card__main:hover::before {
+.card__main:hover .card__main__bg {
   animation: cardBgSlide 1s forwards;
 }
 
@@ -82,12 +82,11 @@ a {
 .card__img {
   clip-path: circle();
   opacity: 0;
-  border: 0.3rem var(--grey) solid;
+  border: 0.3rem var(--dblue) solid;
 }
 
-.card__main::before {
-  opacity: 0;
-  content: " ";
+.card__main__bg {
+  opacity: 1;
   position: absolute;
   top: -3rem;
   left: 6rem;
