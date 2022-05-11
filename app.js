@@ -1,9 +1,8 @@
 const mainBtn = document.querySelector(".mainBtn");
 const cardMain = document.querySelector(".card__main ");
-// const cardText = document.querySelectorAll(".card__text")[0].children;
-const cardText = document.getElementsByClassName("card__text__el");
 
-console.log(typeof cardText);
+const cardText = document.getElementsByClassName("card__text__el");
+const cardImg = document.querySelector(".card__img");
 
 mainBtn.addEventListener("click", () => {
   mainBtn.classList.add("hide");
@@ -12,6 +11,7 @@ mainBtn.addEventListener("click", () => {
 
     Array.from(cardText).forEach((element) => {
       element.classList.add("textIn");
+      cardImg.classList.add("imgIn");
     });
   }, 2000);
 });

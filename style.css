@@ -82,6 +82,7 @@ a {
 .card__img {
   clip-path: circle();
   opacity: 0;
+  border: 0.3rem var(--grey) solid;
 }
 
 .card__main::before {
@@ -108,10 +109,10 @@ a {
   background-color: #fff;
 }
 
-.card__text > p {
+/* .card__text > p {
   opacity: 0;
   transform: translateX(50px);
-}
+} */
 
 .btn,
 .btn:link,
@@ -213,6 +214,22 @@ a {
 
 @keyframes slideText {
   from {
+    transform: translateX(50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.imgIn {
+  animation: slideImg 2s ease-out 2s normal forwards;
+}
+
+@keyframes slideImg {
+  from {
+    transform: translateX(-40px);
   }
   to {
     transform: translateX(0);
