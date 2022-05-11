@@ -36,6 +36,12 @@ a {
   visibility: hidden;
 }
 
+.hide {
+  animation: slideOut 2s linear 0s 1 normal forwards;
+  animation: name duration timing-function delay iteration-count direction
+    fill-mode;
+}
+
 .navbar__list {
   /* height: 5rem; */
   display: flex;
@@ -119,6 +125,7 @@ a {
 .btn:active {
   transform: translateY(0);
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-color: #ddd;
 }
 
 .card__btn {
@@ -181,5 +188,21 @@ a {
         rgba(22, 79, 115, 0.75)
       ),
       url(./imgs/moroccan-flower-dark.webp);
+  }
+}
+
+@keyframes slideOut {
+  0% {
+    opacity: 1;
+  }
+  25% {
+    transform: translateY(50px);
+  }
+  50% {
+  }
+  75% {
+  }
+  100% {
+    opacity: 0;
   }
 }
