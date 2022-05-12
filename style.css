@@ -131,16 +131,18 @@ main {
 
 .card__main__btn {
   opacity: 1;
-  /* position: absolute;
-  top: 23rem;
-  left: 6rem; */
-
-  height: 5rem;
-  width: 22rem;
-  background-image: linear-gradient(rgba(109, 148, 214, 0.747)),
-    url(./imgs/moroccan-flower-dark.webp);
 
   /* filter: grayscale(50); */
+}
+
+.card__main__el {
+  color: #fff;
+  background-image: url(./imgs/moroccan-flower-dark.webp);
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  padding: 1.3rem 2.6rem;
+  border: 0.3rem solid var(--dblue);
 }
 
 .card__text {
