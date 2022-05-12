@@ -75,12 +75,13 @@ a {
   gap: 1.5rem;
 }
 
-.card__main:hover .card__main__bg {
-  animation: cardBgSlide 1s 1s forwards;
-}
+/* .card__main:hover .card__main__bg {
+  animation: cardBgSlide 1s forwards;
+} */
 
 .card__main:hover .card__btn {
   opacity: 1;
+  transition-delay: 2s;
   transform: translateX(-10rem);
 }
 
@@ -169,6 +170,10 @@ a {
 /* KEYFRAMES */
 
 @keyframes cardBgSlide {
+  0% {
+    opacity: 1;
+    /* transform: translateX(0); */
+  }
   25% {
     background-image: linear-gradient(
         45deg,
@@ -188,6 +193,7 @@ a {
   }
 
   100% {
+    opacity: 1;
     left: 10rem;
     background-image: linear-gradient(
         45deg,
@@ -225,7 +231,7 @@ a {
 }
 
 .imgIn {
-  animation: slideImg 2s ease-out 2s normal forwards;
+  animation: slideImg 2s ease-out 0s normal forwards;
 }
 
 @keyframes slideImg {
@@ -235,5 +241,20 @@ a {
   to {
     transform: translateX(0);
     opacity: 1;
+  }
+}
+
+.backgroundIn {
+  animation: backgroundImg 2s ease-out 0s normal forwards;
+}
+
+@keyframes backgroundImg {
+  from {
+    opacity: 0;
+    transform: translateX(-60px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
   }
 }
