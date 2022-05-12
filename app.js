@@ -1,5 +1,6 @@
 const mainBtn = document.querySelector(".mainBtn");
 const cardMain = document.querySelector(".card__main ");
+// const cardBtn = document.querySelector(".card__btn");
 
 const cardText = document.getElementsByClassName("card__text__el");
 const cardImg = document.querySelector(".card__img");
@@ -14,6 +15,7 @@ mainBtn.addEventListener("click", () => {
       cardBg.classList.add("backgroundIn");
       element.classList.add("textIn");
       cardImg.classList.add("imgIn");
+      // cardBtn.classList.add("cardBtnIn");
     });
   }, 2000);
 });
