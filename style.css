@@ -131,11 +131,10 @@ main {
 
 .card__main__btn {
   opacity: 1;
-
-  /* filter: grayscale(50); */
 }
 
 .card__main__el {
+  opacity: 0;
   color: #fff;
   background-image: url(./imgs/moroccan-flower-dark.webp);
   text-align: center;
@@ -242,7 +241,7 @@ main {
   }
   to {
     opacity: 0;
-    transform: translate(-50%, -10%);
+    transform: translateY(35%);
     display: none;
   }
 }
