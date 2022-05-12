@@ -337,11 +337,33 @@ main {
 }
 
 .portfolio__header {
-  font-size: 4rem;
-  letter-spacing: 0.3rem;
-  margin-bottom: 1.2rem;
+  font-size: 3rem;
+  letter-spacing: 0.1rem;
+  /* margin-bottom: 1.2rem; */
 }
 
 .portfolio__text {
-  font-size: 2rem;
+  font-size: 1.5rem;
+}
+
+.tech__span {
+  display: flex;
+  /* border-top: 0.2rem solid var(--lblue); */
+  border-bottom: 0.2rem solid var(--lblue);
+  justify-content: space-around;
+}
+
+.tech__span__el {
+  display: flex;
+}
+
+.tech__span__el:hover > img {
+  transition: all 0.5s;
+  transform: translateY(-1rem);
+}
+
+.tech__span__img {
+  display: inline-block;
+  width: 8rem;
+  height: 6rem;
 }
