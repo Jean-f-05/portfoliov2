@@ -27,16 +27,31 @@ body {
   line-height: 1;
   font-weight: 400;
   color: var(--grey);
+  overflow-x: hidden;
 }
 
 a {
   text-decoration: none;
+  display: inline-block;
 }
 
+.footer__el {
+  display: inline-block;
+}
+
+main {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 5rem;
+}
 /* HIDDEN CLASSES */
 
 .hidden {
   visibility: hidden;
+  display: none;
 }
 
 .hide {
@@ -100,8 +115,9 @@ a {
 .card__main__bg {
   opacity: 0;
   position: absolute;
-  top: -3rem;
-  left: 6rem;
+  top: -16%;
+  left: -28%;
+  align-self: flex-start;
   z-index: -50;
   height: 25rem;
   width: 38rem;
@@ -113,7 +129,22 @@ a {
     url(./imgs/moroccan-flower-dark.webp);
 }
 
+.card__main__btn {
+  opacity: 1;
+  /* position: absolute;
+  top: 23rem;
+  left: 6rem; */
+
+  height: 5rem;
+  width: 22rem;
+  background-image: linear-gradient(rgba(109, 148, 214, 0.747)),
+    url(./imgs/moroccan-flower-dark.webp);
+
+  /* filter: grayscale(50); */
+}
+
 .card__text {
+  position: relative;
   font-size: 4rem;
   line-height: 1.5;
   padding-left: 1.5rem;
@@ -146,9 +177,9 @@ a {
 } */
 
 .footer {
-  position: absolute;
+  /* position: absolute;
   bottom: 0;
-  width: 100%;
+  width: 100%; */
 }
 
 .footer__list {
@@ -157,12 +188,13 @@ a {
   align-items: center;
   gap: 1rem;
   font-size: 3rem;
-  padding: 0.5rem 2rem;
+  padding: auto 2rem;
   border-top: 0.3rem var(--grey) solid;
   list-style: none;
 }
 
 .ph-github-logo {
+  display: inline-block;
   color: var(--dblue);
 }
 
