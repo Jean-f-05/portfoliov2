@@ -43,6 +43,9 @@ main {
   height: 90vh;
   display: flex;
   flex-direction: column;
+}
+
+.center {
   justify-content: center;
   align-items: center;
   row-gap: 5rem;
@@ -325,3 +328,20 @@ main {
 }
 
 /* name duration timing-function delay iteration-count direction fill-mode; */
+
+/* PORTFOLIO */
+
+.portfolio__div {
+  display: inline-block;
+  margin: 2rem 3rem;
+}
+
+.portfolio__header {
+  font-size: 4rem;
+  letter-spacing: 0.3rem;
+  margin-bottom: 1.2rem;
+}
+
+.portfolio__text {
+  font-size: 2rem;
+}

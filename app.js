@@ -26,4 +26,5 @@ mainBtn.addEventListener("click", () => {
 
 cardBtn.addEventListener("click", () => {
   mainComponent.innerHTML = "";
+  mainComponent.classList.remove("center");
 });
