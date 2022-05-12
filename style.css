@@ -71,12 +71,12 @@ main {
   list-style: none;
 }
 
-.center {
+/* .center {
   position: absolute;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-}
+} */
 
 .ph-navigation-arrow-fill {
   font-size: 4rem;
@@ -129,9 +129,9 @@ main {
     url(./imgs/moroccan-flower-dark.webp);
 }
 
-.card__main__btn {
+/* .card__main__btn {
   opacity: 1;
-}
+} */
 
 .card__main__el {
   opacity: 0;
@@ -142,6 +142,17 @@ main {
   font-weight: 500;
   padding: 1.3rem 2.6rem;
   border: 0.3rem solid var(--dblue);
+}
+
+.card__main__el:hover {
+  transform: translateY(-5px) !important;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 15px 15px;
+}
+
+.card__main__el:active {
+  transform: translateY(0) !important;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-color: #ddd;
 }
 
 .card__text {
@@ -156,7 +167,7 @@ main {
 .btn:link,
 .btn:visited {
   border: 0.3rem var(--dblue) solid;
-  border-radius: 50%;
+
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
@@ -171,17 +182,21 @@ main {
   background-color: #ddd;
 }
 
+.btn__round {
+  border-radius: 50%;
+}
+
 /* .ph-arrow-fat-line-right-fill {
   padding: 1rem;
   font-size: 4rem;
   color: var(--dblue);
 } */
 
-.footer {
-  /* position: absolute;
+/* .footer {
+  position: absolute;
   bottom: 0;
-  width: 100%; */
-}
+  width: 100%;
+} */
 
 .footer__list {
   display: flex;
@@ -289,24 +304,24 @@ main {
     transform: translateX(0);
   }
 }
-
-/* .card__btn {
+/* 
+.card__btn {
   opacity: 0;
-}
+} */
 
 .cardBtnIn {
-  animation: cardBtnSlideIn 2.5s ease-out 4s forwards;
+  animation: cardBtnSlideUp 1.5s ease-in 4s forwards;
 }
 
-@keyframes cardBtnSlideIn {
+@keyframes cardBtnSlideUp {
   from {
     opacity: 0;
-    transform: translateX(-10rem);
+    transform: translateY(5rem);
   }
   to {
     opacity: 1;
-    transform: translateX(-5rem);
+    transform: translateY(0);
   }
-} */
+}
 
 /* name duration timing-function delay iteration-count direction fill-mode; */
