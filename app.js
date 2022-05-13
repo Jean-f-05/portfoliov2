@@ -25,6 +25,10 @@ mainBtn.addEventListener("click", () => {
 });
 
 cardBtn.addEventListener("click", () => {
-  mainComponent.innerHTML = "";
-  mainComponent.classList.remove("center");
+  mainComponent.classList.add("hide");
+  setTimeout(() => {
+    alert("OH YEAH");
+  }, 2100);
+  // mainComponent.innerHTML = "";
+  // mainComponent.classList.remove("center");
 });
