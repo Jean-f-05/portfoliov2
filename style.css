@@ -165,6 +165,7 @@ a {
 .card__main__el:hover {
   transform: translateY(-5px) !important;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 15px 15px;
+  cursor: pointer;
 }
 
 .card__main__el:active {
@@ -411,6 +412,12 @@ a {
 .portfolio__el {
   border: 0.1rem solid var(--dblue);
   box-shadow: 0 1.5rem 4rem rgb(0 0 0 / 15%);
+}
+
+.portfolio__el:hover {
+  transition: all 0.5s;
+  transform: translateY(-1.2rem);
+  box-shadow: 0px 15px 15px rgb(0 0 0 / 35%);
 }
 
 .portfolio__el__header {
