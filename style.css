@@ -39,17 +39,24 @@ a {
   display: inline-block;
 }
 
-main {
+.section1 {
   height: 90vh;
   display: flex;
   flex-direction: column;
-}
-
-.center {
   justify-content: center;
   align-items: center;
   row-gap: 5rem;
 }
+
+.section2 {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  row-gap: 5rem;
+}
+
 /* HIDDEN CLASSES */
 
 .hidden {
@@ -333,7 +340,7 @@ main {
 
 .portfolio__div {
   display: inline-block;
-  margin: 2rem 3rem;
+  margin: 2rem 3rem 0;
 }
 
 .portfolio__header {
@@ -366,4 +373,14 @@ main {
   display: inline-block;
   width: 8rem;
   height: 6rem;
+}
+
+.main__portfolio {
+  /* align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center; */
+}
+
+.main__portfolio__grid {
 }
