@@ -368,7 +368,7 @@ a {
 .portfolio__header {
   font-size: 3rem;
   letter-spacing: 0.1rem;
-  /* margin-bottom: 1.2rem; */
+  text-align: center;
 }
 
 .portfolio__text {
@@ -395,13 +395,6 @@ a {
   display: inline-block;
   width: 8rem;
   height: 6rem;
-}
-
-.main__portfolio {
-  /* align-items: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center; */
 }
 
 .main__portfolio__grid {
