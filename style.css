@@ -49,7 +49,7 @@ a {
 }
 
 .section2 {
-  height: 90vh;
+  height: 150vh;
   display: flex;
   flex-direction: column;
   /* justify-content: center; */
@@ -383,4 +383,71 @@ a {
 }
 
 .main__portfolio__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 3rem;
+  column-gap: 2rem;
+}
+
+.portfolio__el {
+  /* border: 0.1rem solid var(--grey); */
+  box-shadow: 0 1.5rem 4rem rgb(0 0 0 / 15%);
+}
+
+.portfolio__el__header {
+  height: 15rem;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.portfolio__el__body {
+  padding: 1rem 2.5rem;
+  font-size: 1.8rem;
+}
+
+.portfolio__el__body__ul {
+  margin-top: 1rem;
+  list-style: none;
+}
+
+.portfolio__el__header__1 {
+  background-image: url(./imgs/websites/natours.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.portfolio__el__header__2 {
+  background-image: url(./imgs/websites/omni.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.portfolio__el__header__3 {
+  background-image: url(./imgs/websites/nexter.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.portfolio__el__header__4 {
+  background-image: url(./imgs/websites/yelp.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.portfolio__el__header__5 {
+  background-image: url(./imgs/websites/webconference.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.portfolio__el__header__6 {
+  background-image: url(./imgs/websites/trillo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.portfolio__el__header__7 {
+  background-image: url(./imgs/websites/register.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
