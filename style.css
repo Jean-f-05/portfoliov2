@@ -384,13 +384,13 @@ a {
 
 .main__portfolio__grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  row-gap: 3rem;
+  grid-template-columns: repeat(3, max-content);
+  row-gap: 2rem;
   column-gap: 2rem;
 }
 
 .portfolio__el {
-  /* border: 0.1rem solid var(--grey); */
+  border: 0.1rem solid var(--grey);
   box-shadow: 0 1.5rem 4rem rgb(0 0 0 / 15%);
 }
 
@@ -408,6 +408,14 @@ a {
 .portfolio__el__body__ul {
   margin-top: 1rem;
   list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.portfolio__el__body__ul__img {
+  width: 3rem;
+  height: 3rem;
+  filter: grayscale(100%) brightness(70%) contrast(2);
 }
 
 .portfolio__el__header__1 {
