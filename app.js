@@ -1,3 +1,5 @@
+import "core-js/actual";
+
 ///////////////////
 // SELECTOR SECTION 1
 
