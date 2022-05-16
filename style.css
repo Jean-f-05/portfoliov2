@@ -68,7 +68,7 @@ a {
 /* HIDDEN CLASSES */
 
 .hidden {
-  visibility: hidden;
+  /* visibility: hidden; */
   display: none !important;
 }
 

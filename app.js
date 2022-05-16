@@ -3,8 +3,10 @@ const cardMain = document.querySelector(".card__main ");
 // const cardBtn = document.querySelector(".card__btn");
 const cardBtn = document.querySelector(".card__main__el");
 
+const section1 = document.querySelector(".section1");
+const section2 = document.querySelector(".section2");
+
 const mainComponent = document.querySelector("main");
-console.log(mainComponent);
 
 const cardText = document.getElementsByClassName("card__text__el");
 const cardImg = document.querySelector(".card__img");
@@ -25,9 +27,12 @@ mainBtn.addEventListener("click", () => {
 });
 
 cardBtn.addEventListener("click", () => {
-  mainComponent.classList.add("hide");
+  section1.classList.add("hide");
+
   setTimeout(() => {
     alert("OH YEAH");
+    mainComponent.innerHTML = "";
+    section2.classList.remove("hidden");
   }, 2100);
   // mainComponent.innerHTML = "";
   // mainComponent.classList.remove("center");
