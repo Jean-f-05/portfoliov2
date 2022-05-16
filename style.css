@@ -126,9 +126,9 @@ img {
 }
 
 .card__img {
-  clip-path: circle();
+  clip-path: circle(50%);
   opacity: 0;
-  border: 0.3rem var(--dblue) solid;
+  border: 0.3rem solid var(--dblue);
 }
 
 .card__main__bg {
@@ -215,12 +215,6 @@ img {
   border: 0.3rem var(--dblue) solid;
   border-radius: 50%;
 }
-
-/* .ph-arrow-fat-line-right-fill {
-  padding: 1rem;
-  font-size: 4rem;
-  color: var(--dblue);
-} */
 
 .footer {
   flex-shrink: 0;
@@ -380,6 +374,10 @@ img {
   height: 6rem;
 }
 
+.main__portfolio {
+  margin: 0 1.5rem;
+}
+
 .main__portfolio__grid {
   opacity: 0;
   max-width: 100rem;
@@ -470,4 +468,61 @@ img {
   background-image: url(./imgs/websites/register.png);
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+/* MEDIA QUERIES */
+
+/* 1100px SCREEN */
+@media (max-width: 68.75em) {
+  .section2 {
+    row-gap: 3rem;
+  }
+
+  .main__portfolio__grid {
+    grid-template-columns: repeat(3, 1fr);
+    max-width: 80rem;
+  }
+}
+
+/* 770px SCREEN */
+@media (max-width: 48.12em) {
+  html {
+    font-size: 50%;
+  }
+
+  .section1 {
+    row-gap: 4rem;
+  }
+
+  .card__img {
+    height: 20rem;
+    width: 20rem;
+  }
+
+  .main__portfolio__grid {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 60rem;
+  }
+}
+
+/* 600px SCREEN */
+@media (max-width: 37.5em) {
+  html {
+    font-size: 43.75%;
+  }
+
+  .tech__span {
+    flex-wrap: wrap;
+  }
+}
+
+/* 500px SCREEN */
+@media (max-width: 31.25em) {
+  html {
+    font-size: 37.5%;
+  }
+
+  .main__portfolio__grid {
+    grid-template-columns: 1fr;
+  }
 }
