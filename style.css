@@ -315,6 +315,31 @@ a {
   }
 }
 
+.spanIn {
+  animation: slideSpan 2s ease 1.5s forwards;
+  animation: name duration timing-function delay iteration-count direction
+    fill-mode;
+}
+
+@keyframes slideSpan {
+  0% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  60% {
+    opacity: 1;
+    transform: translateX(3rem);
+  }
+  80% {
+    transform: translateX(-1rem);
+  }
+
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
 .imgIn {
   animation: slideImg 2s ease-out 2s normal forwards;
 }
@@ -368,6 +393,7 @@ a {
 /* PORTFOLIO */
 
 .portfolio__div {
+  opacity: 0;
   display: inline-block;
   margin: 2rem 3rem 0;
 }
@@ -383,13 +409,16 @@ a {
 }
 
 .tech__span {
+  opacity: 0;
   display: flex;
   /* border-top: 0.2rem solid var(--lblue); */
   border-bottom: 0.2rem solid var(--lblue);
   justify-content: space-around;
+  position: relative;
 }
 
 .tech__span__el {
+  /* opacity: 0; */
   display: flex;
 }
 
@@ -405,6 +434,7 @@ a {
 }
 
 .main__portfolio__grid {
+  opacity: 0;
   max-width: 100rem;
   margin-right: auto;
   margin-left: auto;

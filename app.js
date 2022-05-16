@@ -4,7 +4,7 @@
 const section1 = document.querySelector(".section1");
 const mainComponent = document.querySelector("main");
 const mainBtn = document.querySelector(".mainBtn");
-const cardMain = document.querySelector(".card__main ");
+const cardMain = document.querySelector(".card__main");
 const cardBtn = document.querySelector(".card__main__el");
 const cardText = document.getElementsByClassName("card__text__el");
 const cardImg = document.querySelector(".card__img");
@@ -16,7 +16,7 @@ const cardBg = document.querySelector(".card__main__bg");
 const section2 = document.querySelector(".section2");
 const portDiv = document.querySelector(".portfolio__div");
 const techSpan = document.querySelector(".tech__span");
-const portMain = document.querySelector(".main__portfolio");
+const portMain = document.querySelector(".main__portfolio__grid");
 
 ///////////////////
 //EVENT LISTENER SECTION 1
@@ -44,6 +44,9 @@ cardBtn.addEventListener("click", () => {
   setTimeout(() => {
     mainComponent.innerHTML = "";
     section2.classList.remove("hidden");
+    portDiv.classList.add("textIn");
+    techSpan.classList.add("spanIn");
+    portMain.classList.add("cardBtnIn");
   }, 2100);
   // mainComponent.innerHTML = "";
   // mainComponent.classList.remove("center");
