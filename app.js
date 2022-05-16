@@ -42,7 +42,8 @@ cardBtn.addEventListener("click", () => {
   section1.classList.add("hide");
 
   setTimeout(() => {
-    mainComponent.innerHTML = "";
+    section1.innerHTML = "";
+    section1.classList.remove("section1");
     section2.classList.remove("hidden");
     portDiv.classList.add("textIn");
     techSpan.classList.add("spanIn");
