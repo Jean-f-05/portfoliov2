@@ -1,0 +1,26 @@
+{
+  "name": "portfoliov2",
+  "version": "1.0.0",
+  "description": "my portfolio v2",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean-f-05/portfoliov2.git"
+  },
+  "author": "jean françois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jean-f-05/portfoliov2/issues"
+  },
+  "homepage": "https://github.com/Jean-f-05/portfoliov2#readme",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "core-js": "^3.22.5"
+  }
+}
