@@ -1,16 +1,25 @@
-const mainBtn = document.querySelector(".mainBtn");
-const cardMain = document.querySelector(".card__main ");
-// const cardBtn = document.querySelector(".card__btn");
-const cardBtn = document.querySelector(".card__main__el");
+///////////////////
+// SELECTOR SECTION 1
 
 const section1 = document.querySelector(".section1");
-const section2 = document.querySelector(".section2");
-
 const mainComponent = document.querySelector("main");
-
+const mainBtn = document.querySelector(".mainBtn");
+const cardMain = document.querySelector(".card__main ");
+const cardBtn = document.querySelector(".card__main__el");
 const cardText = document.getElementsByClassName("card__text__el");
 const cardImg = document.querySelector(".card__img");
 const cardBg = document.querySelector(".card__main__bg");
+
+///////////////////
+// SELECTOR SECTION 2
+
+const section2 = document.querySelector(".section2");
+const portDiv = document.querySelector(".portfolio__div");
+const techSpan = document.querySelector(".tech__span");
+const portMain = document.querySelector(".main__portfolio");
+
+///////////////////
+//EVENT LISTENER SECTION 1
 
 mainBtn.addEventListener("click", () => {
   mainBtn.classList.add("hide");
@@ -26,11 +35,13 @@ mainBtn.addEventListener("click", () => {
   }, 2000);
 });
 
+///////////////////
+//EVENT LISTENER SECTION 2
+
 cardBtn.addEventListener("click", () => {
   section1.classList.add("hide");
 
   setTimeout(() => {
-    alert("OH YEAH");
     mainComponent.innerHTML = "";
     section2.classList.remove("hidden");
   }, 2100);
