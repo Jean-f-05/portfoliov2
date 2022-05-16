@@ -30,7 +30,7 @@ mainBtn.addEventListener("click", () => {
       cardBg.classList.add("backgroundIn");
       element.classList.add("textIn");
       cardImg.classList.add("imgIn");
-      cardBtn.classList.add("cardBtnIn");
+      cardBtn.classList.add("slideUp");
     });
   }, 2000);
 });
@@ -46,7 +46,7 @@ cardBtn.addEventListener("click", () => {
     section2.classList.remove("hidden");
     portDiv.classList.add("textIn");
     techSpan.classList.add("spanIn");
-    portMain.classList.add("cardBtnIn");
+    portMain.classList.add("slideUp");
   }, 2100);
   // mainComponent.innerHTML = "";
   // mainComponent.classList.remove("center");

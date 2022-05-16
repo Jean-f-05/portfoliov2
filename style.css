@@ -45,6 +45,8 @@ a {
   display: inline-block;
 }
 
+/* SECTIONS */
+
 .section1 {
   flex: 5 0 auto;
   height: 90vh;
@@ -97,13 +99,6 @@ a {
   text-align: center;
 }
 
-/* .center {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-} */
-
 .ph-navigation-arrow-fill {
   font-size: 4rem;
   padding: 1.8rem;
@@ -115,22 +110,6 @@ a {
   align-items: center;
   gap: 1.5rem;
 }
-
-/* .card__btn:hover + .card__main__bg {
-  animation: cardBgSlide 1s both;
-} */
-
-/* .card__btn {
-  transform: translateX(-15rem);
-  opacity: 0;
-  transition: all 0.5s 0.5s;
-} */
-
-/* .card__main:hover .card__btn {
-  opacity: 1;
-  transition-delay: 2s;
-  transform: translateX(-10rem);
-} */
 
 .card__img {
   clip-path: circle();
@@ -154,10 +133,6 @@ a {
     ),
     url(./imgs/moroccan-flower-dark.webp);
 }
-
-/* .card__main__btn {
-  opacity: 1;
-} */
 
 .card__main__el {
   opacity: 0;
@@ -254,40 +229,6 @@ a {
 }
 
 /* KEYFRAMES */
-/* 
-@keyframes cardBgSlide {
-  0% {
-    opacity: 1;
-  }
-  25% {
-    background-image: linear-gradient(
-        45deg,
-        rgba(25, 46, 89, 0.5),
-        rgba(22, 79, 115, 0.5)
-      ),
-      url(./imgs/moroccan-flower-dark.webp);
-  }
-
-  50% {
-    background-image: linear-gradient(
-        45deg,
-        rgba(25, 46, 89, 0.75),
-        rgba(22, 79, 115, 0.75)
-      ),
-      url(./imgs/moroccan-flower-dark.webp);
-  }
-
-  100% {
-    opacity: 1;
-    left: 10rem;
-    background-image: linear-gradient(
-        45deg,
-        rgba(25, 46, 89, 0.75),
-        rgba(22, 79, 115, 0.75)
-      ),
-      url(./imgs/moroccan-flower-dark.webp);
-  }
-} */
 
 @keyframes slideOut {
   from {
@@ -368,12 +309,8 @@ a {
     transform: translateX(0);
   }
 }
-/* 
-.card__btn {
-  opacity: 0;
-} */
 
-.cardBtnIn {
+.slideUp {
   animation: cardBtnSlideUp 1.5s ease-in 4s forwards;
 }
 
@@ -388,9 +325,7 @@ a {
   }
 }
 
-/* name duration timing-function delay iteration-count direction fill-mode; */
-
-/* PORTFOLIO */
+/* SECTION 2 */
 
 .portfolio__div {
   opacity: 0;
@@ -411,14 +346,12 @@ a {
 .tech__span {
   opacity: 0;
   display: flex;
-  /* border-top: 0.2rem solid var(--lblue); */
   border-bottom: 0.2rem solid var(--lblue);
   justify-content: space-around;
   position: relative;
 }
 
 .tech__span__el {
-  /* opacity: 0; */
   display: flex;
 }
 
