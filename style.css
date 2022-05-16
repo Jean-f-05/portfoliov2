@@ -37,6 +37,10 @@ a {
   display: inline-block;
 }
 
+img {
+  display: block;
+}
+
 .mb-small {
   margin-bottom: 2rem;
 }
@@ -90,9 +94,19 @@ a {
   justify-content: space-between;
   align-items: center;
   font-size: 3rem;
-  padding: 0.5rem 2rem;
+  padding: 0rem 2rem;
   border-bottom: 0.3rem var(--grey) solid;
   list-style: none;
+}
+
+.navbar__el__right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar__el__img {
+  height: 4rem;
 }
 
 .center {
