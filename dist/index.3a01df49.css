@@ -447,6 +447,12 @@ img {
   background-size: cover;
 }
 
+.portfolio__el__header__8 {
+  background-image: url("concert.228fb19e.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 @media (max-width: 68.75em) {
   .section2 {
     row-gap: 3rem;

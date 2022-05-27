@@ -470,6 +470,12 @@ img {
   background-size: cover;
 }
 
+.portfolio__el__header__8 {
+  background-image: url(./imgs/websites/concert.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 /* MEDIA QUERIES */
 
 /* 1100px SCREEN */
