@@ -1,27 +1,28 @@
-7332
+7335
 87/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.5baa4167.js.map1653663386534866639 0
-85/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/nexter.266a29e1.png1653663386490866931 0
-86/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/concert.228fb19e.png1653664092456338541 0
-100/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-javascript-144.5329ec55.svg1652722357427920466 0
-86/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/natours.d33e18f6.png1652722357151974045 0
-90/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/portfoliov2.ce6f0326.png1652722357127978703 0
-92/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-nodejs.b77e0f61.svg1652722357427920466 0
-88/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.3a01df49.css.map1653663982752540310 0
+85/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/nexter.266a29e1.png1653940767914265079 0
+86/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/concert.228fb19e.png1653940767906265735 0
+100/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-javascript-144.5329ec55.svg1653664292424067055 0
+86/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/natours.d33e18f6.png1653664292628066829 0
+90/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/portfoliov2.ce6f0326.png1653664292224067276 0
+92/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-nodejs.b77e0f61.svg1653664292884066547 0
+88/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.3a01df49.css.map1653940767914265079 0
+84/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.eb8f773f.css1653664292884066547 0
 92/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-github.bc8f6ee9.svg1653663386482866984 0
-94/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-css3-144.e0a9426f.svg1652722358027804042 0
-94/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-firebase.38bd6566.svg1652722358027804042 0
-85/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/trillo.8e1f24df.png1653663386530866666 0
-100/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/moroccan-flower-dark.75d77b9c.webp1653663386498866878 0
-92/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/webconference.ea65623e.png1652722357143975596 0
-83/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/omni.0a80aeab.png1652722357151974045 0
+94/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-css3-144.e0a9426f.svg1653664292424067055 0
+94/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-firebase.38bd6566.svg1653664292812066627 0
+85/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/trillo.8e1f24df.png1653940767898266391 0
+100/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/moroccan-flower-dark.75d77b9c.webp1653940767878268034 0
+92/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/webconference.ea65623e.png1653664292628066829 0
+83/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/omni.0a80aeab.png1653664292296067196 0
 96/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-html-5-144.7a8d911a.svg1653663386482866984 0
-96/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-html-5-144.9a9535eb.svg1652722357343936770 0
-85/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/nexter.4df279a2.png1652722357127978703 0
-90/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-sass.4d3c0415.svg1652722357351935219 0
-92/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-github.a741d2d7.svg1652722357347935995 0
+96/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-html-5-144.9a9535eb.svg1653664292884066547 0
+85/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/nexter.4df279a2.png1653664292224067276 0
+90/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-sass.4d3c0415.svg1653664292460067015 0
+92/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-github.a741d2d7.svg1653664292460067015 0
 103/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/mongodb-logo-svgrepo-com.7fda8b2e.svg1653663386482866984 0
-83/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.25374aa3.js1652722358051799428 0
-65/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist1653664242744124739 1
+83/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.25374aa3.js1653664292884066547 0
+65/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist1653940767934263436 1
 91/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/imgs/icons8-javascript-144.svg1652365434000000000 0
 90/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/imgs/icons8-javascript-48.svg1652365434000000000 0
 88/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/imgs/Jean_cve6ri_rtxapu.jpg1652110018814967922 0
@@ -624,7 +625,7 @@
 108/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/string/italics.js1652721741088598744 0
 106/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/string/match.js1652721741168606836 0
 110/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/string/trim-left.js1652721741468637180 0
-76/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.html1653664242744124739 0
+76/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.html1653940767930263764 0
 109/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/string/fontsize.js1652721740876577377 0
 104/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/string/raw.js1652721741244614523 0
 118/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/string/virtual/pad-start.js1652721741216611691 0
@@ -915,7 +916,7 @@
 112/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/set/is-superset-of.js1652721741084598340 0
 94/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/set1652721741508641226 1
 108/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/iterator/every.js1652721740776567318 0
-83/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/omni.3fa25b8b.png1653663386530866666 0
+83/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/omni.3fa25b8b.png1653940767898266391 0
 111/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/iterator/to-async.js1652721741404630707 0
 107/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/iterator/find.js1652721740836573354 0
 109/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/iterator/filter.js1652721740812570940 0
@@ -1592,7 +1593,7 @@
 109/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/svgo/plugins/removeScriptElement.js1652714631213324493 0
 94/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/msgpackr/unpack.d.ts1652714631065324851 0
 94/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/ansi-styles/index.js1652714630633325901 0
-83/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/yelp.ab4cfffd.png1652722357115981032 0
+83/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/yelp.ab4cfffd.png1653664292784066658 0
 123/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/caniuse-lite/data/features/once-event-listener.js1652714631609323530 0
 96/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/ansi-styles/index.d.ts1652714630717325697 0
 111/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/internals/number-parse-int.js1652721741188608859 0
@@ -2042,7 +2043,7 @@
 111/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/stable/typed-array/entries.js1652721740560545597 0
 118/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/source-map/parcel_sourcemap_node/src1652714631473323860 1
 100/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/full/array/fill.js1652721740788568526 0
-91/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/netlify-icon.b7e057fc.svg1652722357427920466 0
+91/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/netlify-icon.b7e057fc.svg1653664292424067055 0
 149/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.linux-x64-gnu.node1652714631429323968 0
 113/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/modules/esnext.iterator.find.js1652721740716561284 0
 93/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/dotenv/package.json1652714630601325979 0
@@ -2110,7 +2111,7 @@
 113/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/msgpackr-extract/build/binding.Makefile1652714633081319957 0
 128/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/workers/test/integration/workerfarm/logging.js1652714631001325006 0
 125/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/workers/test/integration/workerfarm/echo.js1652714630957325114 0
-86/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/natours.39e33ce7.png1653663386482866984 0
+86/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/natours.39e33ce7.png1653940767894266721 0
 125/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/caniuse-lite/data/features/dom-manip-convenience.js1652714631501323793 0
 138/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/workers/test/integration/workerfarm/master-process-id.js1652714631005324997 0
 108/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/abortcontroller-polyfill/README.md1652714630981325055 0
@@ -2626,7 +2627,7 @@
 106/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/regenerator-runtime/package.json1652714630721325687 0
 161/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/b/index.js1652714631269324356 0
 116/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/runtime-react-refresh/package.json1652714630725325679 0
-92/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/webconference.016aea39.png1653663386482866984 0
+92/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/webconference.016aea39.png1653940767894266721 0
 106/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/transformer-html/LICENSE1652714630601325979 0
 114/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/full/set/symmetric-difference.js1652721741392629493 0
 108/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/utils/src/shared-buffer.js1652714631333324200 0
@@ -2691,7 +2692,7 @@
 101/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/events/src/types.js1652714630845325387 0
 109/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/internals/internal-state.js1652721741056595507 0
 113/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/actual/reflect/to-string-tag.js1652721741448635157 0
-71/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/index.html1653664242604124910 0
+71/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/index.html1653940817747306756 0
 106/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/full/typed-array/fill.js1652721740792568927 0
 108/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/lines-and-columns/build/index.d.ts1652714630713325708 0
 116/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/internals/function-uncurry-this.js1652721740908580595 0
@@ -2795,7 +2796,7 @@
 111/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/stable/instance/trim-right.js1652721741476637990 0
 95/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/stable/symbol1652721741516642035 1
 92/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/domutils/readme.md1652714630957325114 0
-84/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.3a01df49.css1653663982752540310 0
+84/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.3a01df49.css1653940767914265079 0
 134/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/env-dep/package.json1652714631445323928 0
 117/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/core/lib/TargetDescriptor.schema.js1652714631465323881 0
 105/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/internals/math-log1p.js1652721741172607240 0
@@ -3083,7 +3084,7 @@
 106/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/term-size/vendor/macos/.DS_Store1652714630665325824 0
 116/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/caniuse-lite/data/features/console-time.js1652714631345324171 0
 85/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/htmlparser21652714630881325300 1
-103/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/mongodb-logo-svgrepo-com.a24e29df.svg1652722357351935219 0
+103/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/mongodb-logo-svgrepo-com.a24e29df.svg1653664292812066627 0
 105/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/caniuse-lite/data/regions/MU.js1652714631597323559 0
 100/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/escape.js1652721740692558870 0
 109/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/actual/typed-array/slice.js1652721741324622615 0
@@ -3842,6 +3843,7 @@
 102/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/svgo/plugins/_collections.js1652714630773325562 0
 112/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/stable/string/virtual/small.js1652721741336623829 0
 94/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/yaml/browser/pair.js1652714630985325046 0
+88/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.eb8f773f.css.map1653664292884066547 0
 109/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/modules/es.date.get-year.js1652721740584548010 0
 90/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/cosmiconfig/dist1652714631097324774 1
 107/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/reporter-cli/package.json1652714631029324939 0
@@ -4743,6 +4745,7 @@
 111/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/instance/includes.js1652721740968586627 0
 127/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/runtime-js/src/helpers/browser/html-loader.js1652714631029324939 0
 107/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/core/lib/public/Config.js1652714631237324435 0
+86/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/concert.39c51de0.png1653664292784066658 0
 104/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/css-select/lib/attributes.d.ts1652714631069324842 0
 130/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/abortcontroller-polyfill/src/abortcontroller-polyfill.js1652714630761325591 0
 100/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/cache/package.json1652714630901325250 0
@@ -4927,7 +4930,7 @@
 107/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/caniuse-lite/data/features/url.js1652714631649323433 0
 103/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/stable/array/every.js1652721740780567722 0
 116/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/terser/node_modules/commander/package.json1652714630705325726 0
-83/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/yelp.4805abde.png1653663386518866745 0
+83/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/yelp.4805abde.png1653940767902266063 0
 111/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/terser/node_modules/commander/typings1652714630797325503 1
 106/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/modules/es.math.hypot.js1652721740596549218 0
 112/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/terser/node_modules/commander/index.js1652714630653325854 0
@@ -5491,7 +5494,7 @@
 97/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/supports-color/index.js1652714630637325892 0
 123/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/css-tree/lib/syntax/pseudo/common/selectorList.js1652714631425323977 0
 98/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/css-tree/lib/syntax/node1652714631449323919 1
-85/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/trillo.7589b862.png1652722357151974045 0
+85/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/trillo.7589b862.png1653664292296067196 0
 106/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/modules/es.string.sub.js1652721740664556056 0
 109/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/css-tree/lib/syntax/node/AnPlusB.js1652714630769325571 0
 108/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/core/src/RequestTracker.js1652714631441323939 0
@@ -5640,7 +5643,7 @@
 88/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/domhandler/lib1652714630841325396 1
 108/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/proposals/seeded-random.js1652721741304620592 0
 130/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/proposals/function-is-callable-is-constructor.js1652721740908580595 0
-100/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/moroccan-flower-dark.73ee7867.webp1652722356736055313 0
+100/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/moroccan-flower-dark.73ee7867.webp1653664292764066680 0
 107/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/proposals/array-unique.js1652721740336523070 0
 93/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/terser/package.json1652714631373324103 0
 105/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/proposals/map-upsert.js1652721741148604814 0
@@ -6181,7 +6184,7 @@
 121/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@swc/helpers/lib/_class_private_field_update.js1652714631013324977 0
 108/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/actual/array/virtual/at.js1652721740364525884 0
 96/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/stable/reflect1652721741456635966 1
-96/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-mysql-logo.186a75d4.svg1652722357347935995 0
+96/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-mysql-logo.186a75d4.svg1653664292460067015 0
 115/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/stable/reflect/define-property.js1652721740516541173 0
 103/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/cosmiconfig/dist/loaders.d.ts1652714631093324783 0
 109/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/full/async-iterator/take.js1652721741396629897 0
@@ -6798,7 +6801,7 @@
 104/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/es/object/to-string.js1652721741456635966 0
 112/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/es/object/define-properties.js1652721740508540368 0
 108/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/es/object/define-setter.js1652721740516541173 0
-90/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/portfoliov2.a1797fef.png1653663386490866931 0
+90/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/portfoliov2.a1797fef.png1653940767914265079 0
 108/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/es/object/is-extensible.js1652721741064596316 0
 98/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/abortcontroller-polyfill1652714630965325095 1
 101/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/es/object/assign.js1652721740352524679 0
@@ -7296,7 +7299,7 @@
 110/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/full/array-buffer/is-view.js1652721741084598340 0
 101/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/full/parse-float.js1652721741220612095 0
 95/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/full/index.js1652721741020591866 0
-87/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.25374aa3.js.map1652722358051799428 0
+87/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.25374aa3.js.map1653664292884066547 0
 95/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/full/weak-set1652721741204610478 1
 115/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/actual/number/max-safe-integer.js1652721741172607240 0
 109/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/full/weak-set/delete-all.js1652721740524541977 0
