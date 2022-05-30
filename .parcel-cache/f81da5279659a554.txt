@@ -22,7 +22,7 @@
 92/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/icons8-github.a741d2d7.svg1653664292460067015 0
 103/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/mongodb-logo-svgrepo-com.7fda8b2e.svg1653663386482866984 0
 83/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.25374aa3.js1653664292884066547 0
-65/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist1653849065459328635 1
+65/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist1653940364091164214 1
 91/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/imgs/icons8-javascript-144.svg1652365434000000000 0
 90/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/imgs/icons8-javascript-48.svg1652365434000000000 0
 88/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/imgs/Jean_cve6ri_rtxapu.jpg1652110018814967922 0
@@ -625,7 +625,7 @@
 108/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/string/italics.js1652721741088598744 0
 106/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/string/match.js1652721741168606836 0
 110/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/string/trim-left.js1652721741468637180 0
-76/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.html1653849065459328635 0
+76/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/dist/index.html1653940364091164214 0
 109/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/string/fontsize.js1652721740876577377 0
 104/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/string/raw.js1652721741244614523 0
 118/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/features/string/virtual/pad-start.js1652721741216611691 0
@@ -2692,7 +2692,7 @@
 101/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/@parcel/events/src/types.js1652714630845325387 0
 109/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/internals/internal-state.js1652721741056595507 0
 113/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/actual/reflect/to-string-tag.js1652721741448635157 0
-71/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/index.html1653849021929845443 0
+71/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/index.html1653940325896976769 0
 106/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/full/typed-array/fill.js1652721740792568927 0
 108/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/lines-and-columns/build/index.d.ts1652714630713325708 0
 116/home/plastic/Documents/JavaScript/Done Projects/portfoliov2/node_modules/core-js/internals/function-uncurry-this.js1652721740908580595 0
