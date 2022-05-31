@@ -128,7 +128,7 @@ img {
 .card__img {
   clip-path: circle(50%);
   opacity: 0;
-  border: 0.3rem solid var(--dblue);
+  border: 0.3rem solid #192e59;
 }
 
 .card__main__bg {
