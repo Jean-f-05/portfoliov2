@@ -69,7 +69,7 @@ img {
 }
 
 .hide {
-  animation: slideOut 2s linear forwards;
+  animation: 2s linear forwards slideOut;
 }
 
 .navbar__list {
@@ -226,7 +226,7 @@ img {
 }
 
 .textIn {
-  animation: slideText 2s ease-out forwards;
+  animation: 2s ease-out forwards slideText;
 }
 
 @keyframes slideText {
@@ -242,7 +242,7 @@ img {
 }
 
 .spanIn {
-  animation: slideSpan 2s 1.5s forwards;
+  animation: 2s 1.5s forwards slideSpan;
   animation: name duration timing-function delay iteration-count direction fill-mode;
 }
 
@@ -268,7 +268,7 @@ img {
 }
 
 .imgIn {
-  animation: slideImg 2s ease-out 2s forwards;
+  animation: 2s ease-out 2s forwards slideImg;
 }
 
 @keyframes slideImg {
@@ -283,7 +283,7 @@ img {
 }
 
 .backgroundIn {
-  animation: backgroundImg 2s ease-out 2s forwards;
+  animation: 2s ease-out 2s forwards backgroundImg;
 }
 
 @keyframes backgroundImg {
@@ -299,7 +299,7 @@ img {
 }
 
 .slideUp {
-  animation: cardBtnSlideUp 1.5s ease-in 4s forwards;
+  animation: 1.5s ease-in 4s forwards cardBtnSlideUp;
 }
 
 @keyframes cardBtnSlideUp {
