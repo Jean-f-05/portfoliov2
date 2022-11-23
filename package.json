@@ -21,6 +21,7 @@
     "parcel": "^2.8.0"
   },
   "dependencies": {
-    "core-js": "^3.22.5"
+    "core-js": "^3.22.5",
+    "semver": "^7.3.8"
   }
 }

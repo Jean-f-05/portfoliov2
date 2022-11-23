@@ -1,4 +1,4 @@
-7382
+7549
 40/home/jeanf/myDev/portfoliov2/index.html1669206166770537343 0
 40/home/jeanf/myDev/portfoliov2/.gitignore1669205587960623375 0
 54/home/jeanf/myDev/portfoliov2/dist/nexter.4df279a2.png1669206424440495192 0
@@ -24,7 +24,6 @@
 61/home/jeanf/myDev/portfoliov2/dist/icons8-github.a741d2d7.svg1669206424890495255 0
 69/home/jeanf/myDev/portfoliov2/dist/icons8-javascript-144.5329ec55.svg1669206424550495206 0
 65/home/jeanf/myDev/portfoliov2/dist/icons8-html-5-144.7a8d911a.svg1669206413500496276 0
-55/home/jeanf/myDev/portfoliov2/dist/natours.39e33ce7.png1669206413530496271 0
 52/home/jeanf/myDev/portfoliov2/dist/yelp.4805abde.png1669206413510496273 0
 60/home/jeanf/myDev/portfoliov2/dist/netlify-icon.b7e057fc.svg1669206424550495206 0
 36/home/jeanf/myDev/portfoliov2/app.js1669205588070623359 0
@@ -50,7 +49,7 @@
 100/home/jeanf/myDev/portfoliov2/node_modules/react-refresh/cjs/react-refresh-runtime.production.min.js1669206404310492861 0
 60/home/jeanf/myDev/portfoliov2/node_modules/react-refresh/cjs1669206404290492866 1
 56/home/jeanf/myDev/portfoliov2/node_modules/react-refresh1669206404350492854 1
-61/home/jeanf/myDev/portfoliov2/node_modules/.package-lock.json1669206407550493036 0
+61/home/jeanf/myDev/portfoliov2/node_modules/.package-lock.json1669207113480386083 0
 67/home/jeanf/myDev/portfoliov2/node_modules/is-arrayish/package.json1669206403990492919 0
 66/home/jeanf/myDev/portfoliov2/node_modules/is-arrayish/.travis.yml1669206404220492877 0
 54/home/jeanf/myDev/portfoliov2/node_modules/is-arrayish1669206404200492883 1
@@ -168,7 +167,6 @@
 55/home/jeanf/myDev/portfoliov2/node_modules/csso/LICENSE1669206404000492920 0
 69/home/jeanf/myDev/portfoliov2/node_modules/lmdb/util/RangeIterable.js1669206405130492710 0
 52/home/jeanf/myDev/portfoliov2/node_modules/lmdb/util1669206405130492710 1
-90/home/jeanf/myDev/portfoliov2/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/midl.h1669206405090492718 0
 92/home/jeanf/myDev/portfoliov2/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/module.c1669206404880492758 0
 94/home/jeanf/myDev/portfoliov2/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_copy.c1669206404710492788 0
 98/home/jeanf/myDev/portfoliov2/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/sample-mdb.txt1669206405190492698 0
@@ -273,7 +271,6 @@
 66/home/jeanf/myDev/portfoliov2/node_modules/posthtml-render/license1669206403990492919 0
 68/home/jeanf/myDev/portfoliov2/node_modules/posthtml-render/readme.md1669206404240492875 0
 58/home/jeanf/myDev/portfoliov2/node_modules/posthtml-render1669206404200492883 1
-52/home/jeanf/myDev/portfoliov2/node_modules/svgo/dist1669206404810492769 1
 51/home/jeanf/myDev/portfoliov2/node_modules/svgo/bin1669206404020492916 1
 57/home/jeanf/myDev/portfoliov2/node_modules/svgo/README.md1669206404920492747 0
 61/home/jeanf/myDev/portfoliov2/node_modules/svgo/lib/parser.js1669206404660492798 0
@@ -329,6 +326,9 @@
 64/home/jeanf/myDev/portfoliov2/node_modules/@parcel/codeframe/src1669206404770492776 1
 68/home/jeanf/myDev/portfoliov2/node_modules/@parcel/codeframe/LICENSE1669206404010492918 0
 60/home/jeanf/myDev/portfoliov2/node_modules/@parcel/codeframe1669206404790492774 1
+96/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/node_modules/semver/README.md1669207113400386097 0
+96/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/node_modules/semver/range.bnf1669207113380386102 0
+84/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/node_modules/.bin1669207113410386094 1
 104/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/test/validateModuleSpecifiers.test.js1669206404730492782 0
 108/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/test/fixtures/packages/peers/package.json1669206404800492772 0
 95/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/test/fixtures/packages/peers1669206404800492772 1
@@ -360,16 +360,22 @@
 89/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/src/JSONParseStream.js1669206404660492798 0
 97/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/src/validateModuleSpecifier.js1669206404730492782 0
 70/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/src1669206404730492782 1
-66/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager1669206404850492762 1
+66/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager1669207113320386110 1
 79/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-css/package.json1669206404230492878 0
 88/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-css/lib/CSSTransformer.js1669206404060492909 0
 70/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-css/src1669206404140492894 1
 80/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/package.json1669206404330492859 0
+100/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/node_modules/semver/package.json1669207113390386100 0
+98/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/node_modules/semver/bin/semver1669207113380386102 0
+90/home/jeanf/myDev/portfoliov2/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/midl.h1669206405090492718 0
+100/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/node_modules/semver/CHANGELOG.md1669207113390386100 0
+97/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/node_modules/semver/semver.js1669207113390386100 0
+87/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/node_modules/semver1669207113390386100 1
 71/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/lib1669206404250492873 1
 87/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/src/dependencies.js1669206404190492885 0
 81/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/src/inline.js1669206404310492861 0
 90/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/src/HTMLTransformer.js1669206404250492873 0
-67/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html1669206404310492861 1
+67/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html1669207113320386110 1
 95/home/jeanf/myDev/portfoliov2/node_modules/@parcel/runtime-js/lib/helpers/worker/wasm-loader.js1669206404650492800 0
 93/home/jeanf/myDev/portfoliov2/node_modules/@parcel/runtime-js/lib/helpers/worker/js-loader.js1669206404560492817 0
 80/home/jeanf/myDev/portfoliov2/node_modules/@parcel/runtime-js/lib/helpers/worker1669206404650492800 1
@@ -395,6 +401,7 @@
 82/home/jeanf/myDev/portfoliov2/node_modules/@parcel/packager-raw/lib/RawPackager.js1669206404060492909 0
 82/home/jeanf/myDev/portfoliov2/node_modules/@parcel/packager-raw/src/RawPackager.js1669206404160492890 0
 67/home/jeanf/myDev/portfoliov2/node_modules/@parcel/packager-raw/src1669206404140492894 1
+85/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/node_modules/.bin1669207113410386094 1
 63/home/jeanf/myDev/portfoliov2/node_modules/@parcel/packager-raw1669206404160492890 1
 77/home/jeanf/myDev/portfoliov2/node_modules/@parcel/namer-default/package.json1669206404190492885 0
 84/home/jeanf/myDev/portfoliov2/node_modules/@parcel/namer-default/lib/DefaultNamer.js1669206404140492894 0
@@ -404,6 +411,9 @@
 75/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/native.js1669206404350492854 0
 78/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/package.json1669206404360492851 0
 101/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/parcel-swc.linux-arm-gnueabihf.node1669206406330492489 0
+89/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/node_modules/semver/bin1669207113380386102 1
+95/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/node_modules/semver/README.md1669207113390386100 0
+85/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/node_modules/semver1669207113390386100 1
 52/home/jeanf/myDev/portfoliov2/dist/index.25374aa3.js1669205588070623359 0
 83/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/native-browser.js1669206404330492859 0
 92/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/parcel-swc.darwin-x64.node1669206405970492555 0
@@ -454,8 +464,6 @@
 95/home/jeanf/myDev/portfoliov2/node_modules/@parcel/utils/test/input/sourcemap/referenced-min.js1669206404900492753 0
 96/home/jeanf/myDev/portfoliov2/node_modules/@parcel/utils/test/input/sourcemap/source-root.js.map1669206405160492706 0
 84/home/jeanf/myDev/portfoliov2/node_modules/@parcel/utils/test/input/config/config.js1669206404380492850 0
-93/home/jeanf/myDev/portfoliov2/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/chacha8.c1669206404610492807 0
-85/home/jeanf/myDev/portfoliov2/node_modules/@parcel/utils/test/input/config/config.cjs1669206404180492884 0
 62/home/jeanf/myDev/portfoliov2/node_modules/posthtml/lib/api.js1669206404050492911 0
 85/home/jeanf/myDev/portfoliov2/node_modules/@parcel/utils/test/input/config/empty.toml1669206405160492706 0
 95/home/jeanf/myDev/portfoliov2/node_modules/lmdb/node_modules/node-addon-api/tools/conversion.js1669206404540492819 0
@@ -574,12 +582,18 @@
 70/home/jeanf/myDev/portfoliov2/node_modules/@parcel/reporter-dev-server1669206404660492798 1
 72/home/jeanf/myDev/portfoliov2/node_modules/@lezer/lr/dist/constants.d.ts1669206404350492854 0
 79/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/package.json1669206404330492859 0
+97/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/node_modules/semver/bin/semver1669207113380386102 0
+96/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/node_modules/semver/README.md1669207113390386100 0
+99/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/node_modules/semver/CHANGELOG.md1669207113390386100 0
+96/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/node_modules/semver/semver.js1669207113390386100 0
+94/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/node_modules/semver/LICENSE1669207113380386102 0
+91/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/node_modules/.bin/semver1669207113410386094 0
 92/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/test/parseFuncIRI.test.js1669206404280492868 0
 71/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/test1669206404270492867 1
 86/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/src/dependencies.js1669206404150492892 0
 88/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/src/SVGTransformer.js1669206404310492861 0
 74/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/LICENSE1669206404000492920 0
-66/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg1669206404310492861 1
+66/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg1669207113320386110 1
 86/home/jeanf/myDev/portfoliov2/node_modules/@parcel/compressor-raw/lib/RawCompressor.js1669206404070492906 0
 86/home/jeanf/myDev/portfoliov2/node_modules/@parcel/compressor-raw/src/RawCompressor.js1669206404160492890 0
 83/home/jeanf/myDev/portfoliov2/node_modules/utility-types/dist/aliases-and-guards.js1669206404040492910 0
@@ -635,6 +649,13 @@
 68/home/jeanf/myDev/portfoliov2/node_modules/@parcel/fs-search/LICENSE1669206404010492918 0
 69/home/jeanf/myDev/portfoliov2/node_modules/@parcel/fs-search/index.js1669206404040492910 0
 82/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/package.json1669206405100492714 0
+102/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/node_modules/semver/package.json1669207113390386100 0
+100/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/node_modules/semver/bin/semver1669207113380386102 0
+102/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/node_modules/semver/CHANGELOG.md1669207113390386100 0
+97/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/node_modules/semver/LICENSE1669207113380386102 0
+55/home/jeanf/myDev/portfoliov2/dist/natours.39e33ce7.png1669206413530496271 0
+89/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/node_modules/semver1669207113390386100 1
+82/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/node_modules1669207113410386094 1
 114/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias/source.js1669206405070492722 0
 117/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias/package.json1669206405200492699 0
 112/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias/dist.js1669206404660492798 0
@@ -650,7 +671,6 @@
 106/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/nested1669206404540492819 1
 106/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/bar.js1669206404400492845 0
 99/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo1669206405110492715 1
-116/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias/bar.js1669206404450492835 0
 117/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias/main.js1669206404950492743 0
 120/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias/browser.js1669206404550492815 0
 109/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias1669206405120492713 1
@@ -710,7 +730,6 @@
 117/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope/pkg/foo/bar.js1669206404330492859 0
 119/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope/pkg/package.json1669206405110492715 0
 106/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope/pkg1669206405110492715 1
-102/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope1669206404290492866 1
 121/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/aliased-file/package.json1669206405110492715 0
 74/home/jeanf/myDev/portfoliov2/node_modules/@parcel/utils/src/getRootDir.js1669206404510492826 0
 108/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/aliased-file1669206405110492715 1
@@ -729,15 +748,23 @@
 89/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/src/NodeResolver.js1669206405030492729 0
 73/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/src1669206405020492732 1
 77/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/LICENSE1669206404010492918 0
-69/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core1669206405100492714 1
+69/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core1669207113320386110 1
 84/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/package.json1669206404230492878 0
+104/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/node_modules/semver/package.json1669207113390386100 0
+101/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/node_modules/semver/README.md1669207113390386100 0
+93/home/jeanf/myDev/portfoliov2/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/chacha8.c1669206404610492807 0
+85/home/jeanf/myDev/portfoliov2/node_modules/@parcel/utils/test/input/config/config.cjs1669206404180492884 0
+101/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/node_modules/semver/range.bnf1669207113380386102 0
+101/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/node_modules/semver/semver.js1669207113390386100 0
+89/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/node_modules/.bin1669207113410386094 1
+84/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/node_modules1669207113410386094 1
 98/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/lib/PostHTMLTransformer.js1669206404180492884 0
 90/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/lib/loadPlugins.js1669206404060492909 0
 75/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/lib1669206404150492892 1
 98/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/src/PostHTMLTransformer.js1669206404210492880 0
 90/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/src/loadPlugins.js1669206404150492892 0
 79/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/LICENSE1669206404000492920 0
-71/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml1669206404210492880 1
+71/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml1669207113320386110 1
 86/home/jeanf/myDev/portfoliov2/node_modules/@parcel/reporter-cli/lib/CLIReporter.js.map1669206404630492802 0
 71/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-json/lib1669206404030492913 1
 76/home/jeanf/myDev/portfoliov2/node_modules/@parcel/reporter-cli/src/utils.js1669206404500492825 0
@@ -752,7 +779,6 @@
 72/home/jeanf/myDev/portfoliov2/node_modules/@parcel/fs/lib/browser.js.map1669206404490492828 0
 57/home/jeanf/myDev/portfoliov2/node_modules/@parcel/fs/lib1669206404550492815 1
 69/home/jeanf/myDev/portfoliov2/node_modules/@parcel/fs/src/MemoryFS.js1669206404370492852 0
-75/home/jeanf/myDev/portfoliov2/node_modules/@parcel/fs/src/NodeFS.browser.js1669206404390492847 0
 65/home/jeanf/myDev/portfoliov2/node_modules/@parcel/fs/src/find.js1669206404210492880 0
 62/home/jeanf/myDev/portfoliov2/node_modules/terser/node_modules1669206402670493165 1
 67/home/jeanf/myDev/portfoliov2/node_modules/@parcel/fs/src/NodeFS.js1669206404400492845 0
@@ -768,6 +794,15 @@
 77/home/jeanf/myDev/portfoliov2/node_modules/@parcel/runtime-service-worker/src1669206404140492894 1
 73/home/jeanf/myDev/portfoliov2/node_modules/@parcel/runtime-service-worker1669206404160492890 1
 66/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/index.d.ts1669206405230492692 0
+86/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/node_modules/semver/bin/semver1669207113380386102 0
+79/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/node_modules/semver/bin1669207113380386102 1
+85/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/node_modules/semver/range.bnf1669207113380386102 0
+88/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/node_modules/semver/CHANGELOG.md1669207113390386100 0
+85/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/node_modules/semver/semver.js1669207113390386100 0
+83/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/node_modules/semver/LICENSE1669207113380386102 0
+75/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/node_modules/semver1669207113390386100 1
+80/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/node_modules/.bin/semver1669207113410386094 0
+73/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/node_modules/.bin1669207113410386094 1
 80/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/PublicAsset.test.js1669206405050492725 0
 79/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/serializer.test.js1669206405090492718 0
 83/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/PackagerRunner.test.js1669206404980492739 0
@@ -784,7 +819,6 @@
 93/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/custom-format-infer-ext1669206405190492698 1
 81/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/module-b.js1669206404950492743 0
 98/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/invalid-engines/package.json1669206405210492696 0
-103/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/main-format-mismatch/package.json1669206405220492694 0
 100/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/duplicate-targets/package.json1669206405200492699 0
 87/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/duplicate-targets1669206405200492699 1
 92/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/custom-targets-distdir1669206405200492699 1
@@ -810,6 +844,7 @@
 91/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/main-mjs/package.json1669206405230492692 0
 78/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/main-mjs1669206405230492692 1
 104/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/common-targets-ignore/package.json1669206405190492698 0
+91/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/node_modules/semver1669207113390386100 1
 91/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/common-targets-ignore1669206405180492701 1
 105/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/invalid-source-missing/package.json1669206405210492696 0
 111/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/targets-default-distdir-none/package.json1669206405230492692 0
@@ -850,7 +885,6 @@
 84/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/lib/requests/AssetRequest.js1669206404660492798 0
 85/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/lib/requests/TargetRequest.js1669206405120492713 0
 85/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/lib/requests/DevDepRequest.js1669206404830492767 0
-84/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/lib/requests/EntryRequest.js1669206404840492765 0
 86/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/lib/requests/PackageRequest.js1669206404970492741 0
 89/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/lib/requests/AssetGraphRequest.js1669206404650492800 0
 116/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias/foo.js1669206404680492793 0
@@ -858,6 +892,7 @@
 89/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/lib/requests/ValidationRequest.js1669206405160492706 0
 83/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/lib/requests/PathRequest.js1669206405040492727 0
 68/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/lib/requests1669206405170492703 1
+99/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/node_modules/semver/package.json1669207113390386100 0
 77/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/lib/RequestTracker.js1669206405060492721 0
 73/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/lib/Validation.js1669206405160492706 0
 75/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/lib/ParcelConfig.js1669206405010492731 0
@@ -879,7 +914,6 @@
 68/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/src/utils.js1669206405150492705 0
 64/home/jeanf/myDev/portfoliov2/node_modules/svgo/plugins/_path.js1669206404290492866 0
 73/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/src/assetUtils.js1669206404680492793 0
-73/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/src/loadDotEnv.js1669206404940492746 0
 74/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/src/BundleGraph.js1669206404760492779 0
 69/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/src/Parcel.js1669206405000492734 0
 86/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/src/TargetDescriptor.schema.js1669206405120492713 0
@@ -922,6 +956,12 @@
 71/home/jeanf/myDev/portfoliov2/node_modules/@parcel/logger/lib/Logger.js1669206404060492909 0
 65/home/jeanf/myDev/portfoliov2/node_modules/@parcel/logger/LICENSE1669206404010492918 0
 57/home/jeanf/myDev/portfoliov2/node_modules/@parcel/logger1669206404210492880 1
+103/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/node_modules/semver/package.json1669207113390386100 0
+102/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope1669206404290492866 1
+101/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/node_modules/semver/bin/semver1669207113380386102 0
+94/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/node_modules/semver/bin1669207113380386102 1
+100/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/node_modules/semver/README.md1669207113390386100 0
+98/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/node_modules/semver/LICENSE1669207113380386102 0
 96/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/lib/PostCSSTransformer.js1669206404310492861 0
 88/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/lib/loadConfig.js1669206404180492884 0
 87/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/lib/constants.js1669206404060492909 0
@@ -943,6 +983,7 @@
 93/home/jeanf/myDev/portfoliov2/node_modules/@parcel/workers/test/integration/workerfarm/ipc.js1669206404480492831 0
 104/home/jeanf/myDev/portfoliov2/node_modules/@parcel/workers/test/integration/workerfarm/reverse-handle.js1669206404570492814 0
 94/home/jeanf/myDev/portfoliov2/node_modules/@parcel/workers/test/integration/workerfarm/ping.js1669206404510492826 0
+90/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/node_modules/semver1669207113390386100 1
 114/home/jeanf/myDev/portfoliov2/node_modules/@parcel/workers/test/integration/workerfarm/resolve-shared-reference.js1669206404560492817 0
 97/home/jeanf/myDev/portfoliov2/node_modules/@parcel/workers/test/integration/workerfarm/console.js1669206404370492852 0
 107/home/jeanf/myDev/portfoliov2/node_modules/@parcel/workers/test/integration/workerfarm/master-process-id.js1669206404500492825 0
@@ -1016,6 +1057,16 @@
 74/home/jeanf/myDev/portfoliov2/node_modules/@parcel/plugin/lib/PluginAPI.js1669206404060492909 0
 61/home/jeanf/myDev/portfoliov2/node_modules/@parcel/plugin/lib1669206404030492913 1
 76/home/jeanf/myDev/portfoliov2/node_modules/@parcel/plugin/src/PluginAPI.d.ts1669206404210492880 0
+99/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/node_modules/semver/bin/semver1669207113380386102 0
+98/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/node_modules/semver/range.bnf1669207113380386102 0
+101/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/node_modules/semver/CHANGELOG.md1669207113390386100 0
+98/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/node_modules/semver/semver.js1669207113390386100 0
+96/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/node_modules/semver/LICENSE1669207113380386102 0
+75/home/jeanf/myDev/portfoliov2/node_modules/@parcel/fs/src/NodeFS.browser.js1669206404390492847 0
+88/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/node_modules/semver1669207113390386100 1
+93/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/node_modules/.bin/semver1669207113410386094 0
+86/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/node_modules/.bin1669207113410386094 1
+81/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/node_modules1669207113410386094 1
 82/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/lib/config.js1669206404300492864 0
 85/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/lib/constants.js1669206404330492859 0
 79/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/lib/jsx.js1669206404400492845 0
@@ -1036,6 +1087,7 @@
 71/home/jeanf/myDev/portfoliov2/node_modules/@parcel/resolver-default/lib1669206404030492913 1
 71/home/jeanf/myDev/portfoliov2/node_modules/@parcel/resolver-default/src1669206404140492894 1
 113/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias-glob/src1669206405100492714 1
+96/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/node_modules/.bin/semver1669207113410386094 0
 75/home/jeanf/myDev/portfoliov2/node_modules/@parcel/resolver-default/LICENSE1669206404000492920 0
 67/home/jeanf/myDev/portfoliov2/node_modules/terser/lib/propmangle.js1669206404890492755 0
 67/home/jeanf/myDev/portfoliov2/node_modules/@parcel/resolver-default1669206404150492892 1
@@ -1106,11 +1158,13 @@
 76/home/jeanf/myDev/portfoliov2/node_modules/htmlnano/docs/docs/050-modules.md1669206404870492757 0
 74/home/jeanf/myDev/portfoliov2/node_modules/htmlnano/docs/docs/020-usage.md1669206404840492765 0
 79/home/jeanf/myDev/portfoliov2/node_modules/htmlnano/docs/docs/060-contribute.md1669206404890492755 0
-61/home/jeanf/myDev/portfoliov2/node_modules/htmlnano/docs/docs1669206404890492755 1
 68/home/jeanf/myDev/portfoliov2/node_modules/htmlnano/docs/sidebars.js1669206404580492812 0
 68/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/src/types.js1669206405150492705 0
 103/home/jeanf/myDev/portfoliov2/node_modules/htmlnano/docs/versioned_sidebars/version-1.1.1-sidebars.json1669206404810492769 0
 77/home/jeanf/myDev/portfoliov2/node_modules/htmlnano/docs/docusaurus.config.js1669206404360492851 0
+63/home/jeanf/myDev/portfoliov2/node_modules/yallist/package.json1669207113380386102 0
+58/home/jeanf/myDev/portfoliov2/node_modules/yallist/LICENSE1669207113380386102 0
+50/home/jeanf/myDev/portfoliov2/node_modules/yallist1669207113380386102 1
 65/home/jeanf/myDev/portfoliov2/node_modules/ansi-styles/index.d.ts1669206404180492884 0
 67/home/jeanf/myDev/portfoliov2/node_modules/ansi-styles/package.json1669206404060492909 0
 62/home/jeanf/myDev/portfoliov2/node_modules/ansi-styles/license1669206404000492920 0
@@ -1158,6 +1212,7 @@
 67/home/jeanf/myDev/portfoliov2/node_modules/node-addon-api/nothing.c1669206403960492927 0
 67/home/jeanf/myDev/portfoliov2/node_modules/node-addon-api/README.md1669206404580492812 0
 71/home/jeanf/myDev/portfoliov2/node_modules/node-addon-api/noexcept.gypi1669206404140492894 0
+68/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/node_modules1669207113410386094 1
 69/home/jeanf/myDev/portfoliov2/node_modules/node-addon-api/except.gypi1669206404140492894 0
 70/home/jeanf/myDev/portfoliov2/node_modules/node-addon-api/node_api.gyp1669206404020492916 0
 70/home/jeanf/myDev/portfoliov2/node_modules/node-addon-api/CHANGELOG.md1669206404570492814 0
@@ -1299,8 +1354,6 @@
 98/home/jeanf/myDev/portfoliov2/node_modules/lmdb/node_modules/node-addon-api/tools/eslint-format.js1669206404550492815 0
 81/home/jeanf/myDev/portfoliov2/node_modules/node-releases/data/processed/envs.json1669206404140492894 0
 61/home/jeanf/myDev/portfoliov2/node_modules/node-releases/data1669206404220492877 1
-71/home/jeanf/myDev/portfoliov2/node_modules/svgo/plugins/minifyStyles.js1669206404640492799 0
-66/home/jeanf/myDev/portfoliov2/node_modules/node-releases/README.md1669206404290492866 0
 56/home/jeanf/myDev/portfoliov2/node_modules/node-releases1669206404280492868 1
 78/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/LICENSE1669206404000492920 0
 67/home/jeanf/myDev/portfoliov2/node_modules/dom-serializer/README.md1669206404380492850 0
@@ -1354,15 +1407,46 @@
 69/home/jeanf/myDev/portfoliov2/node_modules/lightningcss-linux-x64-gnu1669206404030492913 1
 78/home/jeanf/myDev/portfoliov2/node_modules/postcss-value-parser/lib/index.d.ts1669206404310492861 0
 80/home/jeanf/myDev/portfoliov2/node_modules/postcss-value-parser/lib/stringify.js1669206404140492894 0
-62/home/jeanf/myDev/portfoliov2/node_modules/semver/package.json1669206404220492877 0
-53/home/jeanf/myDev/portfoliov2/node_modules/semver/bin1669206404010492918 1
+73/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/src/loadDotEnv.js1669206404940492746 0
+60/home/jeanf/myDev/portfoliov2/node_modules/semver/preload.js1669207113400386097 0
+62/home/jeanf/myDev/portfoliov2/node_modules/semver/package.json1669207113410386094 0
+53/home/jeanf/myDev/portfoliov2/node_modules/semver/bin1669207113400386097 1
+75/home/jeanf/myDev/portfoliov2/node_modules/semver/internal/parse-options.js1669207113400386097 0
+64/home/jeanf/myDev/portfoliov2/node_modules/semver/internal/re.js1669207113400386097 0
+67/home/jeanf/myDev/portfoliov2/node_modules/semver/internal/debug.js1669207113400386097 0
+58/home/jeanf/myDev/portfoliov2/node_modules/semver/internal1669207113400386097 1
+65/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/eq.js1669207113400386097 0
+68/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/rsort.js1669207113400386097 0
+70/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/compare.js1669207113400386097 0
+68/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/patch.js1669207113400386097 0
+66/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/lte.js1669207113400386097 0
+66/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/gte.js1669207113400386097 0
+68/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/minor.js1669207113400386097 0
+66/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/inc.js1669207113400386097 0
+67/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/sort.js1669207113410386094 0
+71/home/jeanf/myDev/portfoliov2/node_modules/svgo/plugins/minifyStyles.js1669206404640492799 0
+66/home/jeanf/myDev/portfoliov2/node_modules/node-releases/README.md1669206404290492866 0
+65/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/gt.js1669207113400386097 0
+66/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/neq.js1669207113400386097 0
+68/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/clean.js1669207113380386102 0
 77/home/jeanf/myDev/portfoliov2/node_modules/css-tree/lib/syntax/node/Number.js1669206405000492734 0
-59/home/jeanf/myDev/portfoliov2/node_modules/semver/range.bnf1669206404140492894 0
-62/home/jeanf/myDev/portfoliov2/node_modules/semver/CHANGELOG.md1669206404240492875 0
-57/home/jeanf/myDev/portfoliov2/node_modules/semver/LICENSE1669206403990492919 0
+59/home/jeanf/myDev/portfoliov2/node_modules/semver/range.bnf1669207113380386102 0
+66/home/jeanf/myDev/portfoliov2/node_modules/semver/classes/range.js1669207113400386097 0
+57/home/jeanf/myDev/portfoliov2/node_modules/semver/LICENSE1669207113380386102 0
+58/home/jeanf/myDev/portfoliov2/node_modules/semver/index.js1669207113400386097 0
+65/home/jeanf/myDev/portfoliov2/node_modules/semver/ranges/valid.js1669207113410386094 0
+84/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/lib/requests/EntryRequest.js1669206404840492765 0
+74/home/jeanf/myDev/portfoliov2/node_modules/semver/ranges/to-comparators.js1669207113410386094 0
+116/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias/bar.js1669206404450492835 0
+74/home/jeanf/myDev/portfoliov2/node_modules/semver/ranges/max-satisfying.js1669207113400386097 0
+68/home/jeanf/myDev/portfoliov2/node_modules/semver/ranges/simplify.js1669207113410386094 0
+66/home/jeanf/myDev/portfoliov2/node_modules/semver/ranges/subset.js1669207113410386094 0
+71/home/jeanf/myDev/portfoliov2/node_modules/semver/ranges/min-version.js1669207113400386097 0
+103/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/main-format-mismatch/package.json1669206405220492694 0
+63/home/jeanf/myDev/portfoliov2/node_modules/semver/ranges/ltr.js1669207113400386097 0
 89/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-react-refresh-wrap/LICENSE1669206404000492920 0
 80/home/jeanf/myDev/portfoliov2/node_modules/css-tree/lib/syntax/pseudo/slotted.js1669206405040492727 0
-49/home/jeanf/myDev/portfoliov2/node_modules/semver1669206404240492875 1
+49/home/jeanf/myDev/portfoliov2/node_modules/semver1669207113410386094 1
 72/home/jeanf/myDev/portfoliov2/node_modules/v8-compile-cache/package.json1669206404040492910 0
 69/home/jeanf/myDev/portfoliov2/node_modules/v8-compile-cache/README.md1669206404190492885 0
 72/home/jeanf/myDev/portfoliov2/node_modules/v8-compile-cache/CHANGELOG.md1669206404140492894 0
@@ -1415,6 +1499,11 @@
 65/home/jeanf/myDev/portfoliov2/node_modules/term-size/package.json1669206404350492854 0
 94/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-react-refresh-wrap/package.json1669206404370492852 0
 60/home/jeanf/myDev/portfoliov2/node_modules/term-size/license1669206404140492894 0
+62/home/jeanf/myDev/portfoliov2/node_modules/term-size/readme.md1669206404360492851 0
+52/home/jeanf/myDev/portfoliov2/node_modules/term-size1669206404360492851 1
+66/home/jeanf/myDev/portfoliov2/node_modules/nullthrows/package.json1669206403990492919 0
+63/home/jeanf/myDev/portfoliov2/node_modules/nullthrows/README.md1669206404170492887 0
+67/home/jeanf/myDev/portfoliov2/node_modules/nullthrows/nullthrows.js1669206404140492894 0
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/instance/with.js1669206406340492487 0
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/instance/trim-end.js1669206406270492501 0
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/esnext.string.cooked.js1669206405580492628 0
@@ -1488,6 +1577,7 @@
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/instance/find.js1669206405660492614 0
 86/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/link-icon-png.js1669206405360492668 0
 79/home/jeanf/myDev/portfoliov2/node_modules/svgo/plugins/removeOffCanvasPaths.js1669206404750492781 0
+68/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/major.js1669207113400386097 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/symbol/pattern-match.js1669206406030492546 0
 129/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/source-not-symlinked/package.json1669206405190492698 0
 81/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/string/virtual/small.js1669206406130492527 0
@@ -1667,6 +1757,7 @@
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.array.of.js1669206405390492663 0
 74/home/jeanf/myDev/portfoliov2/node_modules/@parcel/workers/src/Profiler.js1669206404560492817 0
 84/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/object/iterate-values.js1669206405900492569 0
+66/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/cmp.js1669207113390386100 0
 85/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/esnext.math.deg-per-rad.js1669206405560492629 0
 83/home/jeanf/myDev/portfoliov2/node_modules/@parcel/watcher/src/windows/win_utils.hh1669206404590492808 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/bigint/index.js1669206405830492581 0
@@ -1704,6 +1795,7 @@
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/math/trunc.js1669206406290492496 0
 85/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-image/src/loadSharp.js1669206404210492880 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/string/blink.js1669206405150492705 0
+98/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/node_modules/semver/package.json1669207113390386100 0
 63/home/jeanf/myDev/portfoliov2/node_modules/@parcel/reporter-cli1669206404500492825 1
 88/home/jeanf/myDev/portfoliov2/node_modules/@swc/helpers/src/_interop_require_default.mjs1669206404920492747 0
 91/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/esnext.typed-array.filter-out.js1669206405590492626 0
@@ -1713,6 +1805,7 @@
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/VN.js1669206405550492633 0
 85/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.string.code-point-at.js1669206405460492649 0
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/esnext.iterator.some.js1669206405550492633 0
+79/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/node_modules1669207113410386094 1
 80/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.typed-array.set.js1669206405500492642 0
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/inherit-if-required.js1669206405850492579 0
 81/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/typed-array/for-each.js1669206405690492607 0
@@ -1755,6 +1848,7 @@
 85/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/typed-array/int8-array.js1669206405860492576 0
 88/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/esnext.async-iterator.from.js1669206405530492637 0
 93/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/esnext.reflect.has-own-metadata.js1669206405580492628 0
+95/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/node_modules/.bin/semver1669207113410386094 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/CF.js1669206404840492765 0
 91/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/picture-in-picture.js1669206405440492654 0
 88/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/async-functions.js1669206404630492802 0
@@ -1772,6 +1866,7 @@
 88/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.object.get-prototype-of.js1669206405430492656 0
 90/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/esnext.async-iterator.filter.js1669206405530492637 0
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.number.constructor.js1669206405420492655 0
+60/home/jeanf/myDev/portfoliov2/node_modules/yallist/README.md1669207113390386100 0
 70/home/jeanf/myDev/portfoliov2/node_modules/@jridgewell/source-map/dist1669206404430492840 1
 93/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.typed-array.to-locale-string.js1669206405510492640 0
 76/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.regexp.test.js1669206405460492649 0
@@ -1785,6 +1880,7 @@
 88/home/jeanf/myDev/portfoliov2/node_modules/dom-serializer/node_modules/entities/lib/maps1669206404350492854 1
 80/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/esnext.promise.try.js1669206405570492630 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/string/index.js1669206405800492588 0
+99/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/node_modules/semver/CHANGELOG.md1669207113390386100 0
 88/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.number.max-safe-integer.js1669206405420492655 0
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/esnext.iterator.take.js1669206405550492633 0
 71/home/jeanf/myDev/portfoliov2/node_modules/source-map-support/README.md1669206404320492858 0
@@ -1806,6 +1902,7 @@
 81/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.number.is-finite.js1669206405420492655 0
 69/home/jeanf/myDev/portfoliov2/node_modules/@parcel/graph/src/index.js1669206404480492831 0
 54/home/jeanf/myDev/portfoliov2/node_modules/core-js/web1669206406350492483 1
+102/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/node_modules/semver/bin/semver1669207113380386102 0
 74/home/jeanf/myDev/portfoliov2/node_modules/css-tree/lib/syntax/node/CDO.js1669206404430492840 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/web/dom-collections.js1669206405340492673 0
 89/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/esnext.async-iterator.every.js1669206405530492637 0
@@ -1947,6 +2044,7 @@
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/function/virtual/un-this.js1669206406310492494 0
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/array/filter-reject.js1669206405620492621 0
 68/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/array/slice.js1669206406130492527 0
+80/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/node_modules1669207113410386094 1
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/function/is-constructor.js1669206405870492574 0
 92/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/esnext.typed-array.to-reversed.js1669206405590492626 0
 55/home/jeanf/myDev/portfoliov2/node_modules/css-tree/lib1669206404900492753 1
@@ -1959,6 +2057,7 @@
 92/home/jeanf/myDev/portfoliov2/node_modules/dom-serializer/node_modules/entities/lib/index.js1669206404220492877 0
 72/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/reflect/index.js1669206405830492581 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/regexp/constructor.js1669206405250492689 0
+73/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/prerelease.js1669207113400386097 0
 80/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/instance/index-of.js1669206405780492590 0
 69/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/symbol/for.js1669206405700492603 0
 80/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/reflect/is-extensible.js1669206405870492574 0
@@ -2062,6 +2161,7 @@
 84/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/array/virtual/copy-within.js1669206405280492682 0
 81/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/object/define-property.js1669206405310492678 0
 76/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.array.slice.js1669206405400492661 0
+68/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/valid.js1669207113410386094 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/array/virtual/reduce.js1669206406060492538 0
 88/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/array/virtual/group-by-to-map.js1669206405750492594 0
 64/home/jeanf/myDev/portfoliov2/node_modules/node-addon-api/napi.h1669206404460492832 0
@@ -2088,6 +2188,7 @@
 66/home/jeanf/myDev/portfoliov2/node_modules/chrome-trace-event/dist1669206404180492884 1
 68/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/object/is.js1669206405890492568 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/object/lookup-getter.js1669206405950492560 0
+71/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/rcompare.js1669207113400386097 0
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/instance/bind.js1669206405140492708 0
 87/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/array/virtual/find-index.js1669206405640492616 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/AF.js1669206404350492854 0
@@ -2158,6 +2259,7 @@
 86/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/reflect/delete-property.js1669206405330492672 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/proposals/async-iteration.js1669206404960492740 0
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/instance/trim-start.js1669206406280492498 0
+83/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/node_modules/.bin1669207113410386094 1
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/function/index.js1669206405830492581 0
 62/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/function1669206405990492553 1
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/instance/flags.js1669206405660492614 0
@@ -2193,12 +2295,14 @@
 71/home/jeanf/myDev/portfoliov2/node_modules/cosmiconfig/dist/Explorer.js1669206404140492894 0
 77/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/esnext.set.from.js1669206405580492628 0
 90/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.typed-array.last-index-of.js1669206405500492642 0
+104/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/node_modules/semver/CHANGELOG.md1669207113390386100 0
 98/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/targets-default-distdir-none1669206405230492692 1
 81/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/instance/code-point-at.js1669206405200492699 0
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/weak-set/delete-all.js1669206405320492675 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/weak-set/index.js1669206405840492577 0
 69/home/jeanf/myDev/portfoliov2/node_modules/svgo/plugins/removeDesc.js1669206404720492786 0
 76/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/shared-store.js1669206406120492526 0
+101/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/node_modules/semver/package.json1669207113390386100 0
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/instance/find-index.js1669206405640492616 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/weak-set/add-all.js1669206404530492821 0
 66/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/weak-set1669206405800492588 1
@@ -2301,6 +2405,7 @@
 64/home/jeanf/myDev/portfoliov2/node_modules/ansi-styles/readme.md1669206404140492894 0
 69/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/array/flat.js1669206405670492612 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/typed-array/subarray.js1669206406190492515 0
+63/home/jeanf/myDev/portfoliov2/node_modules/semver/bin/semver.js1669207113410386094 0
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/typed-array/from.js1669206405710492604 0
 69/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/dom-exception1669206406250492502 1
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/array/unique-by.js1669206406310492494 0
@@ -2409,6 +2514,7 @@
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/string/pad-end.js1669206406020492544 0
 80/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/instance/trim-start.js1669206406280492498 0
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/string/iterator.js1669206405910492567 0
+93/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/node_modules/semver/LICENSE1669207113380386102 0
 54/home/jeanf/myDev/portfoliov2/node_modules/ansi-styles1669206404140492894 1
 66/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/object1669206406330492489 1
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/MU.js1669206405390492663 0
@@ -2536,6 +2642,7 @@
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/proposals/number-from-string.js1669206405990492553 0
 81/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/instance/filter-reject.js1669206405620492621 0
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/date/to-string.js1669206406260492503 0
+57/home/jeanf/myDev/portfoliov2/node_modules/semver/classes1669207113410386094 1
 86/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/number/virtual/to-precision.js1669206406230492508 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/proposals/array-filtering.js1669206404810492769 0
 62/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/bigint1669206406040492543 1
@@ -2571,11 +2678,13 @@
 65/home/jeanf/myDev/portfoliov2/node_modules/@jridgewell/source-map1669206404400492845 1
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/proposals/array-includes.js1669206404840492765 0
 69/home/jeanf/myDev/portfoliov2/node_modules/yaml/browser/dist/types.js1669206404680492793 0
+69/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/coerce.js1669207113390386100 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/map/update-or-insert.js1669206406310492494 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/proposals/promise-finally.js1669206406040492543 0
 76/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/array-reduce.js1669206404860492760 0
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/proposals/collection-methods.js1669206405220492694 0
 77/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/dist/lib/supported.js1669206405500492642 0
+98/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/node_modules/semver/README.md1669207113400386097 0
 58/home/jeanf/myDev/portfoliov2/node_modules/css-what/lib/es1669206404550492815 1
 77/home/jeanf/myDev/portfoliov2/node_modules/core-js/proposals/string-cooked.js1669206406170492520 0
 80/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/src/inline.js1669206404250492873 0
@@ -2738,6 +2847,7 @@
 84/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/reflect/delete-property.js1669206405330492672 0
 87/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.array.unscopables.flat.js1669206405400492661 0
 73/home/jeanf/myDev/portfoliov2/node_modules/@parcel/codeframe/package.json1669206404790492774 0
+92/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/node_modules/.bin/semver1669207113410386094 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/object/define-setter.js1669206405310492678 0
 106/home/jeanf/myDev/portfoliov2/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/sample-bdb.txt1669206405180492701 0
 70/home/jeanf/myDev/portfoliov2/node_modules/@parcel/utils/src/stream.js1669206404940492746 0
@@ -2765,7 +2875,6 @@
 69/home/jeanf/myDev/portfoliov2/node_modules/@parcel/graph/src/Graph.js1669206404430492840 0
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/array/flat-map.js1669206405670492612 0
 69/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/math/iaddh.js1669206405770492593 0
-77/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/typed-array/reduce.js1669206406060492538 0
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/typed-array/to-reversed.js1669206406240492505 0
 79/home/jeanf/myDev/portfoliov2/node_modules/@parcel/optimizer-image/package.json1669206404190492885 0
 85/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/typed-array/from-async.js1669206405700492603 0
@@ -2775,6 +2884,7 @@
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/string/code-point-at.js1669206405200492699 0
 80/home/jeanf/myDev/portfoliov2/node_modules/core-js/proposals/object-iteration.js1669206406000492550 0
 69/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/array/at.js1669206405060492721 0
+99/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/node_modules/semver/README.md1669207113400386097 0
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/typed-array/every.js1669206405600492623 0
 64/home/jeanf/myDev/portfoliov2/node_modules/json5/lib/register.js1669206404350492854 0
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/typed-array/reverse.js1669206406090492534 0
@@ -2797,11 +2907,13 @@
 70/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/regexp/test.js1669206406200492513 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/PG.js1669206405430492656 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/array/splice.js1669206406160492518 0
+96/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/node_modules/semver/bin/semver1669207113380386102 0
 61/home/jeanf/myDev/portfoliov2/node_modules/tslib/tslib.es6.js1669206404170492887 0
 85/home/jeanf/myDev/portfoliov2/node_modules/@swc/helpers/lib/_sliced_to_array_loose.js1669206404710492788 0
 77/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/string/ends-with.js1669206405350492670 0
 85/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-image/lib/loadSharp.js1669206404180492884 0
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/array/index-of.js1669206405790492587 0
+56/home/jeanf/myDev/portfoliov2/node_modules/semver/ranges1669207113410386094 1
 100/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.object.get-own-property-descriptors.js1669206405430492656 0
 75/home/jeanf/myDev/portfoliov2/node_modules/entities/lib/decode_codepoint.js1669206404050492911 0
 60/home/jeanf/myDev/portfoliov2/node_modules/lmdb/dependencies1669206405090492718 1
@@ -2843,6 +2955,7 @@
 82/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/dragndrop.js1669206405220492694 0
 68/home/jeanf/myDev/portfoliov2/node_modules/@parcel/fs/lib/browser.js1669206404160492890 0
 80/home/jeanf/myDev/portfoliov2/node_modules/dom-serializer/lib/esm/index.d.ts.map1669206404350492854 0
+63/home/jeanf/myDev/portfoliov2/node_modules/semver/ranges/gtr.js1669207113400386097 0
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/array/reverse.js1669206406090492534 0
 65/home/jeanf/myDev/portfoliov2/node_modules/@parcel/runtime-js/src1669206404620492805 1
 76/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/instance/sort.js1669206406150492522 0
@@ -2989,6 +3102,7 @@
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/MP.js1669206405390492663 0
 93/home/jeanf/myDev/portfoliov2/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/chacha8.h1669206405040492727 0
 80/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/array/virtual/every.js1669206405600492623 0
+61/home/jeanf/myDev/portfoliov2/node_modules/yallist/yallist.js1669207113380386102 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/array/virtual1669206406330492489 1
 110/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/mdn-css-unicode-bidi-isolate-override.js1669206405370492666 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/json/to-string-tag.js1669206406250492502 0
@@ -3106,6 +3220,7 @@
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/instance/pad-end.js1669206406010492548 0
 88/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/async-iterator-prototype.js1669206404970492741 0
 85/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/typed-array/uint16-array.js1669206406300492493 0
+90/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/node_modules/.bin/semver1669207113410386094 0
 66/home/jeanf/myDev/portfoliov2/node_modules/@parcel/types/unsafe.js1669206404230492878 0
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.reflect.construct.js1669206405450492652 0
 62/home/jeanf/myDev/portfoliov2/node_modules/is-arrayish/LICENSE1669206404140492894 0
@@ -3234,6 +3349,7 @@
 86/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.reflect.to-string-tag.js1669206405450492652 0
 84/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/string/virtual/iterator.js1669206405910492567 0
 77/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/string/trim-left.js1669206406280492498 0
+97/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/node_modules/semver/range.bnf1669207113380386102 0
 63/home/jeanf/myDev/portfoliov2/node_modules/domhandler/readme.md1669206404290492866 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/number/index.js1669206405850492579 0
 72/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/string/cooked.js1669206405270492685 0
@@ -3264,8 +3380,9 @@
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.array.at.js1669206405380492662 0
 80/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/instance/trim-right.js1669206406280492498 0
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/json/to-string-tag.js1669206406250492502 0
-68/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel1669206404490492828 1
+68/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel1669207113320386110 1
 87/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/typed-array/uint32-array.js1669206406300492493 0
+90/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/node_modules/semver/bin1669207113380386102 1
 63/home/jeanf/myDev/portfoliov2/node_modules/tslib/tslib.es6.html1669206403990492919 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/string/big.js1669206405090492718 0
 77/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/symbol/match-all.js1669206405970492555 0
@@ -3322,6 +3439,7 @@
 72/home/jeanf/myDev/portfoliov2/node_modules/entities/lib/maps/legacy.json1669206404420492842 0
 73/home/jeanf/myDev/portfoliov2/node_modules/nth-check/lib/esm/index.js.map1669206404390492847 0
 76/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/aggregate-error.js1669206404640492799 0
+88/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/node_modules/semver/package.json1669207113390386100 0
 94/home/jeanf/myDev/portfoliov2/node_modules/@swc/helpers/src/_class_private_field_loose_key.mjs1669206404850492762 0
 51/home/jeanf/myDev/portfoliov2/imgs/netlify-icon.svg1669205588070623359 0
 57/home/jeanf/myDev/portfoliov2/imgs/Jean_cve6ri_rtxapu.jpg1669205588070623359 0
@@ -3329,7 +3447,6 @@
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/is-object.js1669206405880492571 0
 65/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/array1669206406340492487 1
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/symbol/has-instance.js1669206405760492595 0
-60/home/jeanf/myDev/portfoliov2/node_modules/semver/bin/semver1669206404050492911 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/symbol/species.js1669206406150492522 0
 86/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/reflect/delete-metadata.js1669206405330492672 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/KZ.js1669206405350492670 0
@@ -3380,6 +3497,7 @@
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/symbol/to-primitive.js1669206406230492508 0
 80/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/regexp-get-flags.js1669206406060492538 0
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/object/define-property.js1669206405310492678 0
+74/home/jeanf/myDev/portfoliov2/node_modules/semver/ranges/min-satisfying.js1669207113400386097 0
 64/home/jeanf/myDev/portfoliov2/node_modules/ordered-binary/assets1669206404320492858 1
 60/home/jeanf/myDev/portfoliov2/node_modules/@parcel/fs-search1669206404920492747 1
 60/home/jeanf/myDev/portfoliov2/node_modules/entities/lib/maps1669206404430492840 1
@@ -3441,6 +3559,7 @@
 97/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/parcel-swc.linux-arm64-gnu.node1669206406510492456 0
 69/home/jeanf/myDev/portfoliov2/node_modules/@jridgewell/set-array/dist1669206404210492880 1
 80/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/reflect/to-string-tag.js1669206406250492502 0
+65/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/lt.js1669207113400386097 0
 89/home/jeanf/myDev/portfoliov2/node_modules/abortcontroller-polyfill/src/abortableFetch.js1669206404060492909 0
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.math.expm1.js1669206405410492659 0
 72/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/math/fround.js1669206405710492604 0
@@ -3485,6 +3604,7 @@
 76/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/clear-immediate.js1669206405190492698 0
 67/home/jeanf/myDev/portfoliov2/node_modules/detect-libc/package.json1669206404000492920 0
 76/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/av1.js1669206404660492798 0
+67/home/jeanf/myDev/portfoliov2/node_modules/semver/ranges/outside.js1669207113400386097 0
 61/home/jeanf/myDev/portfoliov2/node_modules/core-js/stage/2.js1669206404150492892 0
 79/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/webnfc.js1669206405560492629 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/string/match-all.js1669206405970492555 0
@@ -3502,8 +3622,10 @@
 80/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/instance/trim-start.js1669206406290492496 0
 86/home/jeanf/myDev/portfoliov2/node_modules/@lmdb/lmdb-linux-x64/node.abi102.glibc.node1669206404580492812 0
 85/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/string/virtual/code-points.js1669206405210492696 0
+100/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/node_modules/semver/semver.js1669207113390386100 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/math/expm1.js1669206405610492620 0
 52/home/jeanf/myDev/portfoliov2/imgs/icons8-nodejs.svg1669205588070623359 0
+79/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/node_modules1669207113410386094 1
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/number/range.js1669206406040492543 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.json.stringify.js1669206405410492659 0
 59/home/jeanf/myDev/portfoliov2/imgs/websites/portfoliov2.png1669205588070623359 0
@@ -3581,7 +3703,7 @@
 89/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/string/virtual/replace-all.js1669206406080492536 0
 84/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/object/set-prototype-of.js1669206406110492529 0
 96/home/jeanf/myDev/portfoliov2/node_modules/@babel/highlight/node_modules/supports-color/index.js1669206404140492894 0
-42/home/jeanf/myDev/portfoliov2/node_modules1669206407550493036 1
+42/home/jeanf/myDev/portfoliov2/node_modules1669207113420386095 1
 72/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/set/every.js1669206405600492623 0
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/string/trim-right.js1669206406280492498 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/regexp/split.js1669206406160492518 0
@@ -3592,6 +3714,7 @@
 76/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/iterator/flat-map.js1669206405670492612 0
 60/home/jeanf/myDev/portfoliov2/node_modules/get-port/index.js1669206404050492911 0
 72/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/object/seal.js1669206406100492531 0
+94/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/node_modules/semver/LICENSE1669207113380386102 0
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/string/virtual/blink.js1669206405150492705 0
 70/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/object/seal.js1669206406100492531 0
 74/home/jeanf/myDev/portfoliov2/node_modules/@parcel/reporter-dev-server/src1669206404660492798 1
@@ -3646,6 +3769,7 @@
 83/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/filesystem.js1669206405250492689 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/array/sort.js1669206406150492522 0
 77/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/string/pad-end.js1669206406010492548 0
+100/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/node_modules/semver/range.bnf1669207113380386102 0
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/string/virtual/italics.js1669206405900492569 0
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/typed-array/set.js1669206406110492529 0
 80/home/jeanf/myDev/portfoliov2/node_modules/@parcel/runtime-react-refresh/LICENSE1669206404000492920 0
@@ -3662,6 +3786,7 @@
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/dom-exception1669206406250492502 1
 94/home/jeanf/myDev/portfoliov2/node_modules/@babel/highlight/node_modules/color-name/.npmignore1669206404040492910 0
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/array/virtual/index-of.js1669206405790492587 0
+76/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/compare-build.js1669207113390386100 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/array/filter-out.js1669206405610492620 0
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/esnext.set.difference.js1669206405580492628 0
 69/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/math/clamp.js1669206405180492701 0
@@ -3720,6 +3845,7 @@
 89/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.typed-array.reduce-right.js1669206405500492642 0
 64/home/jeanf/myDev/portfoliov2/node_modules/error-ex/package.json1669206404000492920 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/number/constructor.js1669206405270492685 0
+99/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/node_modules/semver/range.bnf1669207113380386102 0
 68/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/instance1669206406340492487 1
 77/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.array.filter.js1669206405390492663 0
 68/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/global-this.js1669206405740492597 0
@@ -3821,6 +3947,7 @@
 86/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/test/fixtures/invalid-distpath1669206405200492699 1
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/string/virtual/link.js1669206405940492562 0
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/get-iterator.js1669206405720492602 0
+86/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/node_modules/semver1669207113390386100 1
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/json/stringify.js1669206406180492517 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/instance/map.js1669206405960492557 0
 72/home/jeanf/myDev/portfoliov2/node_modules/weak-lru-cache/dist/index.cjs1669206404010492918 0
@@ -3946,6 +4073,7 @@
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/instance/reverse.js1669206406090492534 0
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/string/code-point-at.js1669206405200492699 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/string/raw.js1669206406050492541 0
+97/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/node_modules/semver/bin/semver1669207113380386102 0
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/promise/any.js1669206404760492779 0
 81/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.object.to-string.js1669206405440492654 0
 88/home/jeanf/myDev/portfoliov2/node_modules/abortcontroller-polyfill/dist/cjs-ponyfill.js1669206404330492859 0
@@ -4018,6 +4146,7 @@
 57/home/jeanf/myDev/portfoliov2/node_modules/domhandler/lib1669206404310492861 1
 86/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/async-iterator/flat-map.js1669206405670492612 0
 132/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/.pnpm/source-pnpm@1.0.0/node_modules1669206404620492805 1
+62/home/jeanf/myDev/portfoliov2/node_modules/yallist/iterator.js1669207113380386102 0
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/string/virtual/pad-end.js1669206406010492548 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/number/is-safe-integer.js1669206405880492571 0
 80/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/src/flow.js1669206404390492847 0
@@ -4112,6 +4241,7 @@
 88/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/offscreencanvas.js1669206405420492655 0
 91/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/web.dom-exception.constructor.js1669206406330492489 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/math/isubh.js1669206405890492568 0
+71/home/jeanf/myDev/portfoliov2/node_modules/semver/classes/comparator.js1669207113390386100 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/symbol/match.js1669206405980492551 0
 96/home/jeanf/myDev/portfoliov2/node_modules/@swc/helpers/src/_class_private_field_destructure.mjs1669206404840492765 0
 127/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module-fallback/main.js1669206404990492736 0
@@ -4150,6 +4280,7 @@
 67/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/atob.js1669206405090492718 0
 92/home/jeanf/myDev/portfoliov2/node_modules/@jridgewell/source-map/dist/types/source-map.d.ts1669206404450492835 0
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/typed-array/group-by.js1669206405750492594 0
+86/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/node_modules/semver1669207113390386100 1
 123/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module/package.json1669206405140492708 0
 81/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/object/define-getter.js1669206405300492680 0
 66/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/weak-map1669206405800492588 1
@@ -4175,6 +4306,7 @@
 81/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/typed-array/reduce.js1669206406060492538 0
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/error/to-string.js1669206406260492503 0
 64/home/jeanf/myDev/portfoliov2/node_modules/css-what/package.json1669206404400492845 0
+99/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/node_modules/semver/LICENSE1669207113380386102 0
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/typed-array/methods.js1669206405990492553 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/JM.js1669206405330492672 0
 86/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/typed-array/last-index-of.js1669206405940492562 0
@@ -4273,6 +4405,7 @@
 72/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/map/merge.js1669206405980492551 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/array/some.js1669206406140492524 0
 78/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/alt-eu.js1669206404520492824 0
+88/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/node_modules/.bin1669207113410386094 1
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/array/virtual/values.js1669206406330492489 0
 62/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/number1669206406230492508 1
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/instance/to-spliced.js1669206406240492505 0
@@ -4312,16 +4445,18 @@
 92/home/jeanf/myDev/portfoliov2/node_modules/@parcel/runtime-js/src/helpers/bundle-manifest.js1669206404230492878 0
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/instance/code-points.js1669206405210492696 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/symbol/replace.js1669206406080492536 0
-48/home/jeanf/myDev/portfoliov2/node_modules/@lmdb1669206407480492981 1
+48/home/jeanf/myDev/portfoliov2/node_modules/@lmdb1669207113420386095 1
 81/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/date/to-gmt-string.js1669206406210492509 0
 84/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/mediasource.js1669206405380492662 0
 87/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/string/virtual/starts-with.js1669206406160492518 0
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/instance/splice.js1669206406150492522 0
+87/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/node_modules/.bin1669207113410386094 1
 80/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.aggregate-error.js1669206405380492662 0
 63/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/map1669206406310492494 1
 84/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/reflect/to-string-tag.js1669206406250492502 0
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/array/for-each.js1669206405690492607 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/regexp/dot-all.js1669206405340492673 0
+96/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/node_modules/semver/range.bnf1669207113380386102 0
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/map/map-keys.js1669206405950492560 0
 65/home/jeanf/myDev/portfoliov2/node_modules/dom-serializer/lib/esm1669206404410492841 1
 72/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/string/search.js1669206406100492531 0
@@ -4336,6 +4471,7 @@
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/string/trim-end.js1669206406270492501 0
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/typed-array/some.js1669206406140492524 0
 78/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/mpeg4.js1669206405390492663 0
+66/home/jeanf/myDev/portfoliov2/node_modules/semver/classes/index.js1669207113400386097 0
 79/home/jeanf/myDev/portfoliov2/node_modules/@swc/helpers/lib/_sliced_to_array.js1669206404710492788 0
 90/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/number/virtual/to-exponential.js1669206406210492509 0
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/object/create.js1669206405290492679 0
@@ -4377,6 +4513,7 @@
 77/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/string/replace-all.js1669206406080492536 0
 77/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/object/entries.js1669206405370492666 0
 98/home/jeanf/myDev/portfoliov2/node_modules/@jridgewell/trace-mapping/dist/types/binary-search.d.ts1669206404440492838 0
+67/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/diff.js1669207113400386097 0
 64/home/jeanf/myDev/portfoliov2/node_modules/browserslist/error.js1669206404140492894 0
 84/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/css3-colors.js1669206405160492706 0
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/object/from-entries.js1669206405700492603 0
@@ -4399,6 +4536,7 @@
 67/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/map/from.js1669206405710492604 0
 89/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/array/virtual/reduce-right.js1669206406050492541 0
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/string/search.js1669206406100492531 0
+76/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/compare-loose.js1669207113390386100 0
 85/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/instance/group-by-to-map.js1669206405750492594 0
 81/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/array/virtual/flat.js1669206405670492612 0
 94/home/jeanf/myDev/portfoliov2/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_load.11669206404600492809 0
@@ -4567,6 +4705,7 @@
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/instance/trim-end.js1669206406270492501 0
 84/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/dom-exception/constructor.js1669206405260492687 0
 76/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/es6.js1669206405240492688 0
+99/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/node_modules/semver/semver.js1669207113390386100 0
 81/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/src/public/BundleGroup.js1669206404790492774 0
 83/home/jeanf/myDev/portfoliov2/node_modules/@swc/helpers/lib/_object_spread_props.js1669206404670492795 0
 89/home/jeanf/myDev/portfoliov2/node_modules/@swc/helpers/lib/_skip_first_generator_next.js1669206404700492791 0
@@ -4585,6 +4724,7 @@
 78/home/jeanf/myDev/portfoliov2/node_modules/@jridgewell/sourcemap-codec/LICENSE1669206404010492918 0
 69/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/array/some.js1669206406140492524 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/number/parse-int.js1669206406030492546 0
+83/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/node_modules1669207113410386094 1
 75/home/jeanf/myDev/portfoliov2/node_modules/@jridgewell/source-map/README.md1669206404410492841 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/set/join.js1669206405910492567 0
 69/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/math/scale.js1669206406090492534 0
@@ -4744,6 +4884,7 @@
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/instance/ends-with.js1669206405350492670 0
 113/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/nested/baz.js1669206404540492819 0
 72/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/instance/at.js1669206405000492734 0
+95/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/node_modules/semver/LICENSE1669207113380386102 0
 59/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/error1669206406260492503 1
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/instance/find-last.js1669206405640492616 0
 76/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/instance/splice.js1669206406150492522 0
@@ -4757,6 +4898,7 @@
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/map/some.js1669206406140492524 0
 90/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/object/get-own-property-names.js1669206405730492600 0
 92/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/object/get-own-property-symbols.js1669206405730492600 0
+67/home/jeanf/myDev/portfoliov2/node_modules/semver/classes/semver.js1669207113410386094 0
 77/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/object/is-sealed.js1669206405890492568 0
 70/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/function/name.js1669206405990492553 0
 68/home/jeanf/myDev/portfoliov2/node_modules/@parcel/types/build-ts.js1669206404030492913 0
@@ -4765,7 +4907,6 @@
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/dom-exception/index.js1669206405830492581 0
 90/home/jeanf/myDev/portfoliov2/node_modules/abortcontroller-polyfill/src/abortcontroller.js1669206404280492868 0
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/object/has-own.js1669206405760492595 0
-66/home/jeanf/myDev/portfoliov2/node_modules/nullthrows/package.json1669206403990492919 0
 52/home/jeanf/myDev/portfoliov2/node_modules/csso/dist1669206404620492805 1
 81/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/object/lookup-setter.js1669206405950492560 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/GG.js1669206405270492685 0
@@ -4849,9 +4990,11 @@
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/array/virtual/flat-map.js1669206405660492614 0
 81/home/jeanf/myDev/portfoliov2/node_modules/chrome-trace-event/dist/trace-event.js1669206404020492916 0
 70/home/jeanf/myDev/portfoliov2/node_modules/svgo/plugins/removeXMLNS.js1669206404790492774 0
+95/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-posthtml/node_modules/semver/bin1669207113380386102 1
 72/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/array/slice.js1669206406120492526 0
 72/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/array/index.js1669206405790492587 0
 96/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/background-position-x-y.js1669206404710492788 0
+97/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/node_modules/semver/README.md1669207113400386097 0
 77/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/src/PackagerRunner.js1669206404980492739 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/array/find.js1669206405650492613 0
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/array/group-by-to-map.js1669206405750492594 0
@@ -4908,7 +5051,6 @@
 76/home/jeanf/myDev/portfoliov2/node_modules/css-tree/lib/syntax/pseudo/common1669206405040492727 1
 80/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/function/virtual/bind.js1669206405130492710 0
 72/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/reflect/has.js1669206405760492595 0
-67/home/jeanf/myDev/portfoliov2/node_modules/nullthrows/nullthrows.js1669206404140492894 0
 76/home/jeanf/myDev/portfoliov2/node_modules/@parcel/packager-svg/package.json1669206404180492884 0
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/reflect/is-extensible.js1669206405870492574 0
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/date/to-iso-string.js1669206406220492510 0
@@ -4956,6 +5098,7 @@
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.math.hypot.js1669206405410492659 0
 65/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/data-view1669206405830492581 1
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/error/constructor.js1669206405240492688 0
+71/home/jeanf/myDev/portfoliov2/node_modules/semver/internal/constants.js1669207113400386097 0
 61/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/set1669206405800492588 1
 50/home/jeanf/myDev/portfoliov2/node_modules/@parcel1669206402670493165 1
 67/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/README.md1669206406340492487 0
@@ -4969,7 +5112,7 @@
 65/home/jeanf/myDev/portfoliov2/node_modules/detect-libc/.npmignore1669206404020492916 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/get-iterator.js1669206405720492602 0
 64/home/jeanf/myDev/portfoliov2/node_modules/@parcel/codeframe/lib1669206404790492774 1
-70/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss1669206404340492857 1
+70/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss1669207113320386110 1
 68/home/jeanf/myDev/portfoliov2/node_modules/cosmiconfig/dist/index.js1669206404250492873 0
 87/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/serviceworkers.js1669206405480492647 0
 80/home/jeanf/myDev/portfoliov2/node_modules/@parcel/runtime-js/src/helpers/worker1669206404650492800 1
@@ -5026,6 +5169,7 @@
 70/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/function/virtual1669206405800492588 1
 71/home/jeanf/myDev/portfoliov2/node_modules/@parcel/workers/src/child.js1669206404280492868 0
 84/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/number/min-safe-integer.js1669206405990492553 0
+99/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/node_modules/semver/package.json1669207113390386100 0
 76/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/lib/public/Config.js1669206404800492772 0
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/instance/filter-out.js1669206405620492621 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/json/index.js1669206405790492587 0
@@ -5044,6 +5188,7 @@
 72/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/src/constants.js1669206404810492769 0
 84/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/input-color.js1669206405310492678 0
 89/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/css-nth-child-of.js1669206405100492714 0
+95/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/node_modules/semver/semver.js1669207113390386100 0
 68/home/jeanf/myDev/portfoliov2/node_modules/@parcel/hash/package.json1669206404160492890 0
 76/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/data-view/index.js1669206405790492587 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/FI.js1669206405240492688 0
@@ -5083,6 +5228,7 @@
 93/home/jeanf/myDev/portfoliov2/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/COPYRIGHT1669206404280492868 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/iterators.js1669206405910492567 0
 83/home/jeanf/myDev/portfoliov2/node_modules/@jridgewell/set-array/dist/set-array.mjs1669206404240492875 0
+72/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/satisfies.js1669207113400386097 0
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/flatten-into-array.js1669206405680492609 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/to-object.js1669206406230492508 0
 69/home/jeanf/myDev/portfoliov2/node_modules/react-refresh/package.json1669206404350492854 0
@@ -5093,7 +5239,7 @@
 95/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/indeterminate-checkbox.js1669206405300492680 0
 76/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/string/fontsize.js1669206405680492609 0
 66/home/jeanf/myDev/portfoliov2/node_modules/weak-lru-cache/index.js1669206404140492894 0
-65/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js1669206407070492660 1
+65/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js1669207113320386110 1
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/symbol/for.js1669206405700492603 0
 70/home/jeanf/myDev/portfoliov2/node_modules/css-select/lib/general.d.ts1669206404580492812 0
 64/home/jeanf/myDev/portfoliov2/node_modules/@parcel/optimizer-css1669206404160492890 1
@@ -5198,7 +5344,8 @@
 82/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/webcodecs.js1669206405560492629 0
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/typed-array/uint32-array.js1669206406300492493 0
 87/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/v8-prototype-define-bug.js1669206406320492491 0
-55/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core1669206405230492692 1
+91/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-html/node_modules/semver/bin1669207113380386102 1
+55/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core1669207113320386110 1
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/string-pad.js1669206406180492517 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/object/has-own.js1669206405760492595 0
 77/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/object-assign.js1669206406000492550 0
@@ -5293,6 +5440,7 @@
 89/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/array-iteration-from-last.js1669206404850492762 0
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/create-html.js1669206405290492679 0
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/schedulers-fix.js1669206406090492534 0
+92/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/node_modules/semver/bin1669207113380386102 1
 78/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/alt-oc.js1669206404540492819 0
 87/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/document-create-element.js1669206405330492672 0
 39/home/jeanf/myDev/portfoliov2/style.css1669205588070623359 0
@@ -5445,6 +5593,7 @@
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/string/pad-start.js1669206406020492544 0
 84/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/number/to-exponential.js1669206406210492509 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/string/replace.js1669206406080492536 0
+98/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/node_modules/semver/CHANGELOG.md1669207113390386100 0
 67/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/string/big.js1669206405100492714 0
 69/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/string/fixed.js1669206405660492614 0
 96/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/comparedocumentposition.js1669206404900492753 0
@@ -5465,6 +5614,7 @@
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/dom-collections/iterator.js1669206405910492567 0
 61/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/map1669206405790492587 1
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/string/ends-with.js1669206405350492670 0
+96/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/node_modules/semver/semver.js1669207113390386100 0
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/number/is-finite.js1669206405870492574 0
 66/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/string/at.js1669206405020492732 0
 69/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/string/match.js1669206405970492555 0
@@ -5478,7 +5628,6 @@
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/object/values.js1669206406320492491 0
 69/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/regexp/split.js1669206406160492518 0
 54/home/jeanf/myDev/portfoliov2/node_modules/yaml/seq.js1669206404660492798 0
-52/home/jeanf/myDev/portfoliov2/node_modules/term-size1669206404360492851 1
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/regexp/replace.js1669206406080492536 0
 70/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/regexp/search.js1669206406100492531 0
 69/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/regexp/match.js1669206405970492555 0
@@ -5599,6 +5748,7 @@
 65/home/jeanf/myDev/portfoliov2/node_modules/term-size/vendor/macos1669206404140492894 1
 55/home/jeanf/myDev/portfoliov2/node_modules/browserslist1669206404330492859 1
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/instance/ends-with.js1669206405350492670 0
+59/home/jeanf/myDev/portfoliov2/node_modules/semver/functions1669207113410386094 1
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/instance/includes.js1669206405770492593 0
 72/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/array/slice.js1669206406130492527 0
 65/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/unescape.js1669206406310492494 0
@@ -5729,8 +5879,6 @@
 68/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/reflect/get.js1669206405740492597 0
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/function/virtual/bind.js1669206405120492713 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/function/index.js1669206405800492588 0
-53/home/jeanf/myDev/portfoliov2/node_modules/domhandler1669206404280492868 1
-78/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/function/has-instance.js1669206405750492594 0
 68/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/regexp/test.js1669206406200492513 0
 71/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/date/to-string.js1669206406260492503 0
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/date/to-primitive.js1669206406230492508 0
@@ -5951,6 +6099,7 @@
 77/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/array/reduce-right.js1669206406050492541 0
 102/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/background-repeat-round-space.js1669206404710492788 0
 92/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/css-filter-function.js1669206405030492729 0
+84/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/node_modules/.bin1669207113410386094 1
 82/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/string/virtual/trim-end.js1669206406270492501 0
 86/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/text-overflow.js1669206405510492640 0
 85/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/css-autofill.js1669206404950492743 0
@@ -5976,6 +6125,7 @@
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/esnext.set.delete-all.js1669206405580492628 0
 84/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/wbr-element.js1669206405550492633 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/CH.js1669206404850492762 0
+91/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/node_modules/.bin/semver1669207113410386094 0
 86/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/iframe-srcdoc.js1669206405300492680 0
 81/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/jpeg2000.js1669206405330492672 0
 127/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-exclude/main.js1669206404960492740 0
@@ -6069,10 +6219,11 @@
 93/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/css-text-orientation.js1669206405150492705 0
 94/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/subresource-integrity.js1669206405500492642 0
 77/home/jeanf/myDev/portfoliov2/node_modules/@swc/helpers/src/_to_primitive.mjs1669206405000492734 0
-59/home/jeanf/myDev/portfoliov2/node_modules/semver/README.md1669206404270492867 0
+59/home/jeanf/myDev/portfoliov2/node_modules/semver/README.md1669207113410386094 0
 87/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/css3-boxsizing.js1669206405160492706 0
 81/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/minmaxwh.js1669206405390492663 0
 78/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/http3.js1669206405290492679 0
+103/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-postcss/node_modules/semver/CHANGELOG.md1669207113390386100 0
 87/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/css-first-line.js1669206405030492729 0
 63/home/jeanf/myDev/portfoliov2/dist/icons8-css3-144.e0a9426f.svg1669206425280495307 0
 53/home/jeanf/myDev/portfoliov2/node_modules/.bin/json51669206407270492818 0
@@ -6149,7 +6300,7 @@
 79/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/symbol/description.js1669206405330492672 0
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/regexp/split.js1669206406160492518 0
 68/home/jeanf/myDev/portfoliov2/node_modules/msgpackr/rollup.config.js1669206404500492825 0
-47/home/jeanf/myDev/portfoliov2/package-lock.json1669206407520493016 0
+47/home/jeanf/myDev/portfoliov2/package-lock.json1669207113460386084 0
 77/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/wasm.js1669206405550492633 0
 87/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/object-entries.js1669206405410492659 0
 89/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/css-motion-paths.js1669206405090492718 0
@@ -6202,6 +6353,7 @@
 81/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/fontface.js1669206405260492687 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/symbol/index.js1669206405850492579 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/IM.js1669206405300492680 0
+85/home/jeanf/myDev/portfoliov2/node_modules/@parcel/core/node_modules/semver/README.md1669207113400386097 0
 81/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/progress.js1669206405440492654 0
 79/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/canvas.js1669206404830492767 0
 85/home/jeanf/myDev/portfoliov2/node_modules/@parcel/utils/test/input/config/empty.json1669206404960492740 0
@@ -6299,6 +6451,7 @@
 80/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-babel/lib/flow.js1669206404370492852 0
 89/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/mutationobserver.js1669206405400492661 0
 56/home/jeanf/myDev/portfoliov2/node_modules/nth-check/lib1669206404490492828 1
+78/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/node_modules1669207113410386094 1
 76/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/array/copy-within.js1669206405280492682 0
 86/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/css-selection.js1669206405130492710 0
 82/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/dom-range.js1669206405210492696 0
@@ -6445,7 +6598,7 @@
 123/home/jeanf/myDev/portfoliov2/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-node/parcel_sourcemap_wasm_bg.wasm1669206405160492706 0
 86/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/engine-is-webos-webkit.js1669206405360492668 0
 62/home/jeanf/myDev/portfoliov2/node_modules/get-port/index.d.ts1669206404020492916 0
-42/home/jeanf/myDev/portfoliov2/package.json1669205950990564371 0
+42/home/jeanf/myDev/portfoliov2/package.json1669207113460386084 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/regexp/flags.js1669206405660492614 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/TL.js1669206405520492636 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/NI.js1669206405410492659 0
@@ -6500,6 +6653,7 @@
 86/home/jeanf/myDev/portfoliov2/node_modules/@jridgewell/set-array/dist/set-array.umd.js1669206404140492894 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/EE.js1669206405220492694 0
 57/home/jeanf/myDev/portfoliov2/dist/index.3e831512.css.map1669205588070623359 0
+90/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/node_modules/semver/bin1669207113380386102 1
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/PR.js1669206405440492654 0
 99/home/jeanf/myDev/portfoliov2/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/tooltag1669206404560492817 0
 100/home/jeanf/myDev/portfoliov2/node_modules/@parcel/runtime-js/src/helpers/browser/prefetch-loader.js1669206404630492802 0
@@ -6561,6 +6715,7 @@
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/NC.js1669206405400492661 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/GN.js1669206405270492685 0
 88/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-svg/lib/SVGTransformer.js1669206404300492864 0
+70/home/jeanf/myDev/portfoliov2/node_modules/semver/ranges/intersects.js1669207113400386097 0
 83/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/async-iterator/index.js1669206405810492586 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/MN.js1669206405390492663 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/VG.js1669206405550492633 0
@@ -6837,7 +6992,7 @@
 67/home/jeanf/myDev/portfoliov2/node_modules/dotenv-expand/index.d.ts1669206404050492911 0
 60/home/jeanf/myDev/portfoliov2/node_modules/error-ex/index.js1669206404020492916 0
 66/home/jeanf/myDev/portfoliov2/node_modules/color-name/package.json1669206404000492920 0
-60/home/jeanf/myDev/portfoliov2/node_modules/@msgpackr-extract1669206407480492981 1
+60/home/jeanf/myDev/portfoliov2/node_modules/@msgpackr-extract1669207113420386095 1
 78/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/data-view/index.js1669206405810492586 0
 74/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/regions/SO.js1669206405490492644 0
 76/home/jeanf/myDev/portfoliov2/node_modules/@jridgewell/resolve-uri/README.md1669206404270492867 0
@@ -6898,6 +7053,7 @@
 90/home/jeanf/myDev/portfoliov2/node_modules/@swc/helpers/src/_class_private_method_init.mjs1669206404860492760 0
 87/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/typed-array/uint16-array.js1669206406300492493 0
 74/home/jeanf/myDev/portfoliov2/node_modules/@swc/helpers/src/_construct.mjs1669206404880492758 0
+68/home/jeanf/myDev/portfoliov2/node_modules/semver/functions/parse.js1669207113400386097 0
 73/home/jeanf/myDev/portfoliov2/node_modules/@swc/helpers/src/_to_array.mjs1669206404990492736 0
 96/home/jeanf/myDev/portfoliov2/node_modules/@swc/helpers/src/_object_without_properties_loose.mjs1669206404960492740 0
 98/home/jeanf/myDev/portfoliov2/node_modules/@babel/highlight/node_modules/color-name/.eslintrc.json1669206404220492877 0
@@ -7002,15 +7158,24 @@
 98/home/jeanf/myDev/portfoliov2/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/020-usage.md1669206404840492765 0
 72/home/jeanf/myDev/portfoliov2/node_modules/@mischnic/json-sourcemap/dist1669206404240492875 1
 83/home/jeanf/myDev/portfoliov2/node_modules/@mischnic/json-sourcemap/dist/index.d.ts1669206404160492890 0
+61/home/jeanf/myDev/portfoliov2/node_modules/htmlnano/docs/docs1669206404890492755 1
+52/home/jeanf/myDev/portfoliov2/node_modules/lru-cache1669207113380386102 1
+53/home/jeanf/myDev/portfoliov2/node_modules/domhandler1669206404280492868 1
+78/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/function/has-instance.js1669206405750492594 0
+61/home/jeanf/myDev/portfoliov2/node_modules/lru-cache/index.js1669207113380386102 0
+77/home/jeanf/myDev/portfoliov2/node_modules/core-js/full/typed-array/reduce.js1669206406060492538 0
+62/home/jeanf/myDev/portfoliov2/node_modules/lru-cache/README.md1669207113390386100 0
+52/home/jeanf/myDev/portfoliov2/node_modules/svgo/dist1669206404810492769 1
+65/home/jeanf/myDev/portfoliov2/node_modules/lru-cache/package.json1669207113380386102 0
 64/home/jeanf/myDev/portfoliov2/node_modules/buffer-from/readme.md1669206404140492894 0
-47/home/jeanf/myDev/portfoliov2/node_modules/.bin1669206407270492818 1
+47/home/jeanf/myDev/portfoliov2/node_modules/.bin1669207113420386095 1
 70/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/math/cosh.js1669206405280492682 0
 89/home/jeanf/myDev/portfoliov2/node_modules/.bin/node-gyp-build-optional-packages-optional1669206407270492818 0
 53/home/jeanf/myDev/portfoliov2/node_modules/json5/dist1669206404490492828 1
 65/home/jeanf/myDev/portfoliov2/node_modules/.bin/browserslist-lint1669206407270492818 0
 75/home/jeanf/myDev/portfoliov2/node_modules/core-js/stable/typed-array/at.js1669206405080492720 0
 75/home/jeanf/myDev/portfoliov2/node_modules/.bin/download-msgpackr-prebuilds1669206407270492818 0
-54/home/jeanf/myDev/portfoliov2/node_modules/.bin/semver1669206407270492818 0
+54/home/jeanf/myDev/portfoliov2/node_modules/.bin/semver1669207113410386094 0
 72/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/math/cosh.js1669206405290492679 0
 67/home/jeanf/myDev/portfoliov2/node_modules/.bin/node-gyp-build-test1669206407270492818 0
 91/home/jeanf/myDev/portfoliov2/node_modules/@parcel/packager-js/src/ScopeHoistingPackager.js1669206404490492828 0
@@ -7050,6 +7215,7 @@
 65/home/jeanf/myDev/portfoliov2/node_modules/parent-module/index.js1669206404020492916 0
 64/home/jeanf/myDev/portfoliov2/node_modules/parent-module/license1669206404050492911 0
 69/home/jeanf/myDev/portfoliov2/node_modules/parent-module/package.json1669206403990492919 0
+95/home/jeanf/myDev/portfoliov2/node_modules/@parcel/transformer-js/node_modules/semver/range.bnf1669207113380386102 0
 69/home/jeanf/myDev/portfoliov2/node_modules/css-tree/lib/syntax/atrule1669206405050492725 1
 58/home/jeanf/myDev/portfoliov2/node_modules/detect-libc/lib1669206404250492873 1
 77/home/jeanf/myDev/portfoliov2/node_modules/core-js/internals/dom-iterables.js1669206405340492673 0
@@ -7090,6 +7256,7 @@
 75/home/jeanf/myDev/portfoliov2/node_modules/nth-check/lib/esm/index.d.ts.map1669206404370492852 0
 67/home/jeanf/myDev/portfoliov2/node_modules/@parcel/packager-svg/lib1669206404030492913 1
 70/home/jeanf/myDev/portfoliov2/node_modules/@babel/code-frame/README.md1669206404040492910 0
+93/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/node_modules/semver/bin1669207113380386102 1
 75/home/jeanf/myDev/portfoliov2/node_modules/nth-check/lib/esm/compile.js.map1669206404350492854 0
 99/home/jeanf/myDev/portfoliov2/node_modules/csso/lib/restructure/prepare/createDeclarationIndexer.js1669206404550492815 0
 77/home/jeanf/myDev/portfoliov2/node_modules/nth-check/lib/esm/compile.d.ts.map1669206404310492861 0
@@ -7115,6 +7282,7 @@
 90/home/jeanf/myDev/portfoliov2/node_modules/core-js/modules/es.typed-array.float32-array.js1669206405490492644 0
 57/home/jeanf/myDev/portfoliov2/node_modules/dotenv/LICENSE1669206404140492894 0
 100/home/jeanf/myDev/portfoliov2/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/040-presets.md1669206404860492760 0
+73/home/jeanf/myDev/portfoliov2/node_modules/semver/internal/identifiers.js1669207113400386097 0
 53/home/jeanf/myDev/portfoliov2/node_modules/dotenv/lib1669206404260492871 1
 68/home/jeanf/myDev/portfoliov2/node_modules/dotenv/lib/cli-options.js1669206404250492873 0
 81/home/jeanf/myDev/portfoliov2/node_modules/@parcel/package-manager/lib/types.d.ts1669206404860492760 0
@@ -7208,6 +7376,7 @@
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/regexp/index.js1669206405800492588 0
 58/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/json1669206406250492502 1
 89/home/jeanf/myDev/portfoliov2/node_modules/@babel/highlight/node_modules/has-flag/license1669206404140492894 0
+94/home/jeanf/myDev/portfoliov2/node_modules/@parcel/node-resolver-core/node_modules/.bin/semver1669207113410386094 0
 29/home/jeanf/myDev/portfoliov21669206412240496469 1
 94/home/jeanf/myDev/portfoliov2/node_modules/@babel/highlight/node_modules/has-flag/package.json1669206404010492918 0
 96/home/jeanf/myDev/portfoliov2/node_modules/@babel/highlight/node_modules/color-name/package.json1669206404010492918 0
@@ -7291,6 +7460,7 @@
 57/home/jeanf/myDev/portfoliov2/node_modules/yaml/types.mjs1669206404750492781 0
 61/home/jeanf/myDev/portfoliov2/node_modules/yaml/browser/types1669206404670492795 1
 68/home/jeanf/myDev/portfoliov2/node_modules/yaml/browser/types/set.js1669206404670492795 0
+60/home/jeanf/myDev/portfoliov2/node_modules/lru-cache/LICENSE1669207113380386102 0
 64/home/jeanf/myDev/portfoliov2/node_modules/yaml/browser/index.js1669206404380492850 0
 74/home/jeanf/myDev/portfoliov2/node_modules/svgo/lib/svgo/css-class-list.js1669206404580492812 0
 74/home/jeanf/myDev/portfoliov2/node_modules/core-js/features/async-iterator1669206406200492513 1
@@ -7298,7 +7468,6 @@
 72/home/jeanf/myDev/portfoliov2/node_modules/core-js/actual/object/seal.js1669206406090492534 0
 81/home/jeanf/myDev/portfoliov2/node_modules/yaml/browser/dist/warnings-df54cb69.js1669206404730492782 0
 83/home/jeanf/myDev/portfoliov2/node_modules/yaml/browser/dist/resolveSeq-492ab440.js1669206404610492807 0
-59/home/jeanf/myDev/portfoliov2/node_modules/semver/semver.js1669206404190492885 0
 73/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/string/fontcolor.js1669206405680492609 0
 79/home/jeanf/myDev/portfoliov2/node_modules/yaml/browser/dist/Schema-e94716c8.js1669206404650492800 0
 84/home/jeanf/myDev/portfoliov2/node_modules/caniuse-lite/data/features/geolocation.js1669206405270492685 0
@@ -7379,5 +7548,3 @@
 85/home/jeanf/myDev/portfoliov2/node_modules/msgpackr-extract/bin/download-prebuilds.js1669206404170492887 0
 77/home/jeanf/myDev/portfoliov2/node_modules/core-js/es/object/lookup-getter.js1669206405950492560 0
 72/home/jeanf/myDev/portfoliov2/node_modules/msgpackr-extract/package.json1669206404240492875 0
-63/home/jeanf/myDev/portfoliov2/node_modules/nullthrows/README.md1669206404170492887 0
-62/home/jeanf/myDev/portfoliov2/node_modules/term-size/readme.md1669206404360492851 0
