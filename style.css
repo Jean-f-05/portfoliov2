@@ -477,6 +477,12 @@ img {
   background-size: cover;
 }
 
+.portfolio__el__header__9 {
+  background-image: url(./imgs/websites/pokedex.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 /* MEDIA QUERIES */
 
 /* 1100px SCREEN */

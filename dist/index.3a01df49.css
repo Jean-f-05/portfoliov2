@@ -454,6 +454,12 @@ img {
   background-size: cover;
 }
 
+.portfolio__el__header__9 {
+  background-image: url("pokedex.2c4912a4.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 @media (max-width: 68.75em) {
   .section2 {
     row-gap: 3rem;
